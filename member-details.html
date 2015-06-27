@@ -1,21 +1,22 @@
-﻿<!DOCTYPE html>
+﻿<!DOCTYPE html>    <!----------test  local----->
 <!--[if lt IE 7 ]><html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]><html lang="en" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]><html lang="en" class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]><html lang="en" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="en" class="no-js"> <!--<![endif]-->
+<html lang="fr" class="no-js"> <!--<![endif]-->
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
+
 <meta name="author" content="T2ISOFT">
 <meta name="keywords" content="">
-<title>Agency - Shortcodes: Columns</title>
-
-
+<title> T2ISOFT Agence-web</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
 <link href="style.css" media="screen" rel="stylesheet">
 <link href="screen.css" media="screen" rel="stylesheet">
+
 <!-- custom CSS -->
 <link rel="stylesheet" href="custom.css">
 <link href="css/flexslider.css" media="screen" rel="stylesheet" type="text/css">
@@ -24,7 +25,6 @@
 <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57-iphone.html">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72-ipad.html">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114-iphone4.html">
-
 <!-- Mobile optimized -->
 <script src="js/libs/modernizr.min.js"></script>
 <script src="js/libs/respond.min.js"></script>
@@ -42,9 +42,32 @@
 <link rel="stylesheet" href="css/prettyPhoto.css">
 <script src="js/jquery.prettyPhoto.js"></script>
 <!-- top slider -->
-<script src="js/search-input.js"></script>
 <script src="js/jquery.flexslider-min.js"></script>
-<script type="text/javascript">
+<script src="js/search-input.js"></script>
+
+    <script type="text/javascript" charset="utf-8">
+  
+    $(window).load(function() {
+      $('.tf-header-slider').flexslider({
+        animation: "fade",
+        maxItems: 11,
+        controlNav: true
+      });
+    });
+    
+    $(window).load(function() {
+      $('.tf-work-carousel').flexslider({
+        animation: "slade",
+        animationLoop: false,
+        itemWidth: 280,
+        itemMargin: 30,
+        move: 1,
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+    
     $(window).load(function() {
       $('.tf-footer-carousel').flexslider({
         animation: "slide",
@@ -56,7 +79,21 @@
         move:1
       });
     });
-</script>
+    
+    jQuery(document).ready(function($) {
+                $('#work-carousel').carouFredSel({
+                    next : "#work-carousel-next",
+                    prev : "#work-carousel-prev",
+                    auto: false,
+                    circular: false,
+                    infinite: true, 
+                    width: '100%',      
+                    scroll: {
+                        items : 1                   
+                    }       
+                });
+            });
+  </script>
   <script type="text/javascript" language="javascript" src="js/custom.js"></script>
 </head>
 <body>
@@ -66,66 +103,28 @@
                 <div class="header">
                     <div class="header-nav box_white">
                     <!--logo-->
-                       <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" /></a></div>
+                       <div class="logo"><a href="index.html"><img src="images/logo1.png" alt="T2Isoft" Width="150%" /></a></div>
                     <!--/logo-->
                     <!--Top Menu-->
-                    <div id="topmenu">
+                       <div id="topmenu">
                         <ul class="dropdown">
-                            <li class="menu-level-0 current-menu-item"><a href="team.html">About Us <span>Who we are</span></a></li>            
-                            <li class="menu-level-0"><a href="services.html">Services <span>What we do</span></a></li>
-                            <li class="menu-level-0"><a href="work.html">Work <span>Our Clients</span></a></li>
-                            <li class="menu-level-0"><a href="blog.html">Blog <span>Stay Pluged</span></a>   </li>                        
-                            <li class="menu-level-0"><a href="#">Pages <span>Pricing &amp; More</span></a>
-                            
-                                <ul class="submenu-1">
-                                    <li class="menu-level-1"><a href="prices.html"><span>Pricing</span></a></li>
-                                    <li class="menu-level-1"><a href="shortcodes-buttons.html"><span>Shortcodes</span></a>
-                                        <ul class="submenu-2">                                
-                                            <li class="menu-level-2"><a href="shortcodes-buttons.html"><span>Buttons & Lists</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-text.html"><span>Text & Images</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-tabs.html"><span>Tabs & Toggles</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-charts.html"><span>Charts</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-columns.html"><span>Columns</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-columns-full.html"><span>Full Width Columns</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-lightbox.html"><span>Lightbox</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-tables.html"><span>Tables & Boxes</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-media.html"><span>Media (Videos & Img)</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-maps.html"><span>Maps & Locations</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-typography.html"><span>Typography</span></a></li>
-                                            <li class="menu-level-2"><a href="shortcodes-widgets.html"><span>Widgets</span></a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                          </ul>
+                            <li class="menu-level-0"><a href="team.html">Agence <span>Qui sommes-nous ?</span></a></li>            
+                            <li class="menu-level-0"><a href="services.html">Services <span>Nos services</span></a></li>
+                            <li class="menu-level-0"><a href="realisation.html">Réalisations <span>Nos réalisations</span></a></li>
+                            <li class="menu-level-0"><a href="expertise.html">Solutions <span>Notre expertise</span></a>   </li>                        
+                          
+                        </ul>
                     </div>
                        <!--/top menu-->
                     </div>
                     
                     <!--Let's Do It-->
-                    <a href="contacts.html"><div class="header-box box_orange"><h2 class=" text-white text-extrabold">LET`S DO IT</h2></div></a>
+                    <a href="contacts.html"><div class="header-box box_orange"><h2 class=" text-white text-extrabold"> CONTACTEZ  NOUS...</h2></div></a>
                     <!--/let's do it-->
                     <div class="clear"></div>
                     
                    
                 </div>
-                 <!--header title-->
-                    <div class="header-title box_white">
-                        <div class="header-title-content text-left">
-                            <h1>Meet the creatives</h1>
-                        </div>
-                        
-                        <!--top search-->
-                        <div class="topsearch">
-						<form action="#" method="POST" >
-							<div class="header-search">
-								<input type="text" name="s" class="s"  autocomplete="off"/>
-							</div>
-						</form>
-                        </div>
-                        <div class="title-corner-white"></div>
-                        <!--/top search-->
-                    </div>
                     <!--/header title-->
             </div>
                 <div class="clear"></div>
