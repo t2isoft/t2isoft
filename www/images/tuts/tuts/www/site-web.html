@@ -1,0 +1,455 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="fr" class="no-js"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<meta name="author" content="T2ISOFT">
+<meta name="keywords" content="">
+<title>T2ISOFT Agence-web </title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
+<link href="style.css" media="screen" rel="stylesheet">
+<link href="screen.css" media="screen" rel="stylesheet">
+<!-- custom CSS -->
+<link rel="stylesheet" href="custom.css">
+<link href="css/flexslider.css" media="screen" rel="stylesheet" type="text/css">
+<!-- favicon.ico and apple-touch-icon.png -->
+<link rel="shortcut icon" href="http://www.t2isoft.com/images/logo1.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon-57x57-iphone.html">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72-ipad.html">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114-iphone4.html">
+<!-- Mobile optimized -->
+<script src="js/libs/modernizr.min.js"></script>
+<script src="js/libs/respond.min.js"></script>
+<script src="js/libs/jquery.min.js"></script>
+
+<!-- scripts -->
+<script src="js/jquery.easing.1.3.min.js"></script>
+<script src="js/hoverIntent.js"></script>
+<script src="js/general.js"></script>
+
+<!-- carousel -->
+<script src="js/jquery.carouFredSel.packed.js"></script>
+<script src="js/jquery.touchSwipe.min.js"></script>
+<!-- lightbox prettyPhoto -->
+<link rel="stylesheet" href="css/prettyPhoto.css">
+<script src="js/jquery.prettyPhoto.js"></script>
+<!-- top slider -->
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/search-input.js"></script>
+
+    <script type="text/javascript" charset="utf-8">
+  
+    $(window).load(function() {
+      $('.tf-header-slider').flexslider({
+        animation: "fade",
+        maxItems: 11,
+        controlNav: true
+      });
+    });
+    
+    $(window).load(function() {
+      $('.tf-work-carousel').flexslider({
+        animation: "slade",
+        animationLoop: false,
+        itemWidth: 280,
+        itemMargin: 30,
+        move: 1,
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+    
+    $(window).load(function() {
+      $('.tf-footer-carousel').flexslider({
+        animation: "slide",
+        animationLoop: true,
+        itemWidth: 140,
+        itemMargin: 15,
+        minItems: 1,
+        maxItems: 6,
+        move:1
+      });
+    });
+    
+    jQuery(document).ready(function($) {
+				$('#work-carousel').carouFredSel({
+					next : "#work-carousel-next",
+					prev : "#work-carousel-prev",
+					auto: false,
+					circular: false,
+					infinite: true,	
+					width: '100%',		
+					scroll: {
+						items : 1					
+					}		
+				});
+			});
+  </script>
+  <script type="text/javascript" language="javascript" src="js/custom.js"></script>
+</head>
+<body>
+    <div class="body-wrapper">
+        <div class="white-background">
+            <div class="container">
+                <div class="header">
+                    <div class="header-nav box_white">
+                    <!--logo-->
+                       <div class="logo"><a href="index.html"><img src="images/logo1.png" alt="T2Isoft" Width="150%" /></a></div>
+                    <!--/logo-->
+                    <!--Top Menu-->
+                       <div id="topmenu">
+                        <ul class="dropdown">
+                            <li class="menu-level-0"><a href="team.html">Agence <span>Qui sommes-nous ?</span></a></li>            
+                            <li class="menu-level-0"><a href="services.html">Services <span>Nos services</span></a></li>
+                            <li class="menu-level-0"><a href="realisation.html">Réalisations <span>Nos réalisations</span></a></li>
+                            <li class="menu-level-0"><a href="expertise.html">Solutions <span>Notre expertise</span></a>   </li>                        
+                          
+                        </ul>
+                    </div>
+                       <!--/top menu-->
+                    </div>
+                    
+                    <!--Let's Do It-->
+                    <a href="contacts.html"><div class="header-box box_orange"><h2 class=" text-white text-extrabold"> CONTACTEZ  NOUS...</h2></div></a>
+                    <!--/let's do it-->
+                    <div class="clear"></div>
+                    
+                   
+                </div>
+                 
+                 <!--header title-->
+                    <div class="header-title box_white">
+                        <div class="header-title-content text-left">
+                            <h1>Création & Dévloppement Web</h1>
+                        </div>
+                        
+                        
+                        
+                    </div>
+                    <!--/header title-->
+            </div>
+                <div class="clear"></div>
+        </div>
+        <!--/header-->
+        
+        
+        <div class="black-background">
+            <div class="container">
+                 <!--header slider-->
+                    <div class="header-slider">
+                        <img src="images/img/slide_img_2.jpg">
+                    </div>
+                    <!--/header slider-->
+            </div>
+        </div>
+        <div class="white-background">
+			
+                <ul class="middle-menu">
+                
+                    <li>
+                        <a href="team.html">
+                            <div class="tf-top-menu"></div>
+                            <img src="images/ico_menu/menu1.png" alt="" />
+                            <h4 class="text-white ">Agence</h4>
+                            <div class="tf-bottom-menu"></div>
+                        </a>
+                    </li>
+                    
+                    <li class="active-menu">
+                        <a href="site-web.html" >
+                            <div class="tf-top-menu"></div>
+                            <img src="images/ico_menu/menu2.png" alt="" />
+                            <h4 class="text-white">Site web</h4>
+                            <div class="tf-bottom-menu"></div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="application.html">
+                            <div class="tf-top-menu"></div>
+                            <img src="images/ico_menu/menu3.png" alt="" />
+                            <h4 class="text-white">Applications</h4>
+                            <div class="tf-bottom-menu"></div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="graphisme.html">
+                            <div class="tf-top-menu"></div>
+                            <img src="images/ico_menu/menu5.png" alt="" />
+                            <h4 class="text-white">Graphisme</h4>
+                            <div class="tf-bottom-menu"></div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="referencement.html">
+                            <div class="tf-top-menu"></div>
+                            <img src="images/ico_menu/menu4.png" alt="" />
+                            <h4 class="text-white">Référencement</h4>
+                            <div class="tf-bottom-menu"></div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="maintenance.html">
+                            <div class="tf-top-menu"></div>
+                            <img src="images/ico_menu/menu6.png" alt="" />
+                            <h4 class="text-white">Maintenance</h4>
+                            <div class="tf-bottom-menu"></div>
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+        </div>
+<!-- middle -->
+<div class="white-background">
+    <div class="container ">
+        <div id="middle" class="full_width box_white">
+            <!-- content -->
+            <div class="content" role="main">
+            
+                <article class="post-detail">            
+                    <div class="entry">
+                    
+                        <div class="row">
+                            <div class="col col_2_3">
+                                <div class="inner">
+                                    <div class="title">
+                                        <h1>Création de sites Web</h1>
+                                    </div>
+                                    <p><span id="char">T2ISOFT</span> est une agence web basée à Villeneuve-la-Garenne  composée d’une équipe performante et efficace de 
+										Designers, Programmeurs, Intégrateurs, Ergonomes et Stratèges Web travaillant en
+										collaboration sur plusieurs projets de création de site Internet et de marketing web
+										pour plusieurs entreprises dans différents secteurs. Notre objectif est de créer des sites web 
+										performants qui donne de la visibilité à votre entreprise et apporte un réel retour sur investissement. </p>
+                                </div>
+                            </div>
+                            <div class="col col_1_3">
+                                <div class="inner">
+                                    <img src="images/tuts/site-web.jpg"  /><br>
+                                </div>
+                            </div>
+                        </div>
+                            <br>
+            <div class="row">
+                            <div class="col col_2_3">
+                                <div class="inner">
+                                    <div class="title">
+                                        <h1>Les Étapes de création d’un site web </h1>
+                                    </div>
+                                    <p><ul>
+					<li><span id="char"> 1 </span>Analyse de vos besoins et de votre projet dans une consultation téléphonique ou en personne. </li>
+					<li><span id="char"> 2</span> Soumission de l’offre de service et du plan des opérations pour la création de votre site Internet</li>
+					<li><span id="char"> 3</span> Signature du contrat et enclenchement du processus de conception web</LI>
+					<li><span id="char"> 4</span> Sélection du style de site web et de son Design</li>
+					<li><span id="char"> 5</span> Détermination de l’arborescence, du contenu, et des fonctionnalités du site Internet. </li>
+					<li><span id="char"> 6</span> Création du site web en ligne sur une adresse temporaire protégée ou vous pourrez voir le site se construire progressivement. </li>
+					<li><span id="char"> 7</span> Modifications et correction du site web basés sur votre feedback </li>
+					<li><span id="char"> 8</span> Polissage final et mise en ligne sur le url officiel</li>
+					<li><span id="char"> 9</span> Entretien, mise à jour, modifications selon votre besoin et suivit des statistiques pour optimiser la visibilité</li>
+					<li><span id="char"> 10</span> Support pour tout problème technique relatif au site web pour 1 an</li>
+</ul>
+
+ </p>
+                                </div>
+                            </div>
+                            <div class="col col_1_3">
+                                <div class="inner">
+                                    <img src="images/tuts/etape1.png" class="etape"  />
+                                </div>
+                            </div>
+                        </div><br>
+						<div class="row">
+                            <div class="col col_2_3">
+                                <div class="inner">
+                                    <div class="title">
+                                        <h1>Exemples de type de site Internet que nous créons</h1>
+                                    </div>
+                                    <p><ul>
+<li><span id="char">*</span> Création de Boutique en ligne (e-commerce) avec des galeries de produits incluant images, descriptions, calcul des taxes et des frais de livraison, paiement par carte de crédit ou Paypal</li>
+<li><span id="char">* </span>Création de Site Web Vitrine pour les entreprises de services avec un slideshow sur la page d’accueil, une section contact, à propos de l’entreprise, témoignages et adresses</li>
+<li><span id="char">* </span>Création de Site web pour artiste désigné selon votre style avec une section pour présenter vos services ou vos produits (musique, peinture, cours…)</li>
+<li><span id="char">* </span>Site Internet informationnel pour un organisme ou une fondation avec possibilité d’inclure un système de donation, une section de membres, une infolettre, un blog…</li>
+<li><span id="char">* </span>Création de Site web mobile et en résolution adaptative et version mobile de site Internet (pour les utilisateurs de téléphones intelligents, tablettes, iPad…)</li>
+<li><span id="char">*</span> Création de site Internet avec base de données, qui est dynamique et intéractif pouvant intégrer diverses applications et fonctionnalités. </li>
+<li><span id="char">*</span> Site web avec une section aux membres ou aux clients</li></ul>
+</p>
+                                </div>
+                            </div>
+                            <div class="col col_1_3">
+                                <div class="inner">
+                                    <img src="images/tuts/choix.png"   /><br>
+                                </div>
+                            </div>
+                        </div><br>
+						<div class="row">
+                            <div class="col col_2_3">
+                                <div class="inner">
+                                    <div class="title">
+                                        <h1>Avantages de créer un site web avec T2ISOFT</h1>
+                                    </div>
+                                    <p><ul><li><span id="char">*</span> Équipe hautement qualifiée en programmation, design, référencement web et gestion de projet</li>
+<li><span id="char">*</span> Des dizaines de clients satisfaits</li>
+<li><span id="char">*</span> Prix incroyablement compétitif : nous égalerons votre meilleur soumission! </li>
+<li><span id="char">*</span> Satisfaction garantie, nous modifierons le site jusqu’à pleine satisfaction</li>
+<li><span id="char">*</span> 1 an de garantie pour régler tout type de problème technique sur le site</li>
+<li><span id="char">*</span> Service rapide, efficace et personnalisé à votre secteur d’activité et vos objectifs</li>
+<li><span id="char">*</span> Structure interne optimisée pour le référencement web et le classement dans Google (SEO) </li>
+<li><span id="char">*</span> Suivit des statistiques et de la progression de la visibilité du site Internet après la mise en ligne</li>
+<li><span id="char">*</span> Nous utilisons WordPress, un CMS moderne, simple à modifier et à mettre à jour</li>
+<li><span id="char">*</span> Budget adaptatif: dites-nous votre budget et nous ferons le maximum possible</li>
+<li><span id="char">*</span> Intégration de module de statistiques pour savoir d’où viennent vos visiteurs et ce qu’ils font sur votre site web</li>
+<li><span id="char">*</span> Outils, modules, fonctionnalités et stratégies à la pointe de la technologie web</li></ul>
+</p>
+                                </div>
+                            </div>
+                            <div class="col col_1_3">
+                                <div class="inner">
+                                    <img src="images/tuts/reussite.png" class="etape"  /><br>
+                                </div>
+                            </div>
+                        </div>
+                
+            
+					</div><div class="clear"></div>
+					</div>
+                </article>
+                
+        </div>
+            <!--/content-->
+            
+            <div class="clear"></div>
+    </div>
+         <div class="clear"></div>
+    </div>
+                <div class="footer-slider">
+                <div class="container">
+                    <div class="slider-inner">
+                        <h2 class="text-bold">Technologies utilisées</h2>
+                                    
+                            <div class="tf-footer-carousel carousel" >
+                              <ul class="slides">
+                                <li >
+                                        <img src="images/tehnologies/php.png" alt=""  />
+                                    </li>
+                                    <li >
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
+                                    </li>
+                                    <li>
+                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                    </li>
+                                    <li>
+                                        <img src="images/tehnologies/java.png" alt=""  />
+                                    </li>
+                                    <li>
+                                        <img src="images/tehnologies/js.png" alt="" />
+                                    </li>
+                                    <li>
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
+                                    </li>
+                                    <li >
+                                        <img src="images/tehnologies/php.png" alt=""  />
+                                    </li>
+                                    <li >
+                                        <img src="images/tehnologies/jquery.png" alt="" />
+                                    </li>
+                                    <li>
+                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                    </li>
+                                <!-- items mirrored twice, total of 12 -->
+                              </ul>
+                            </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                </div>
+<div class="clear">            
+</div>
+<!--/middle-->
+<footer>
+    <div class="footer-top">
+        <div class="container">
+            <div class="footer-content">
+                <div class="f_col f_col_1">
+             <!------------SUIVEZ NOUS--------------------->
+                    <div class="widget-container footer_social">
+                        <h3 class="widget-title">Suivez-nous</h3>
+                        <ul>
+                            <li><a href="#" class="fb"></a></li>
+                            <li><a href="#" class="tw"></a></li>
+                            <li><a href="#" class="in"></a></li>
+                            <li><a href="#" class="ball"></a></li>
+                            <li><a href="#" class="c"></a></li>
+                            <li><a href="#" class="v"></a></li>
+                            <li><a href="#" class="a"></a></li>
+                        </ul>
+                    </div>
+      
+                </div>
+                 <!------------------PLANS DE SITE--------------->
+                <div class="f_col f_col_2">
+                    <div class="widget-container widget_categories">
+                        <h3 class="widget-title">Plan de site</h3>
+                        <ul>
+                            <li><a href="index.html"> Agence</a></li>
+							<li><a href="index.html"> Services</a></li>
+							<li><a href="index.html"> Réalisations</a></li>
+							<li><a href="index.html"> Solutions</a></li>
+							<li><a href="index.html"> Contactez-nous</a></li>
+							
+                        </ul>
+                    </div>
+                </div>
+                 <!-------------------INFORMATIONS-------------->
+                <div class="f_col f_col_3">
+                    <div class="widget-container widget-testimonials">
+                        <h3 class="widget-title">Informations</h3>
+                        <p><a href="team.html">Qui sommes-nous ?</a></p>
+                        <p><a href="montion.html">Montion légale</a></p>
+                        <p><a href="services.html">Nos services</a></p>
+                        <p><a href="contacts.html">Contactez-nous</p>
+                    </div>
+                </div>
+                
+          <!------------------CONTACTEZ NOUS --------------->
+                
+                <div class="f_col f_col_5">
+                    <div class="widget-container widget-send-feedback">
+                        <h3 class="widget-title">Contactez-nous</h3>
+						<img src="images/tuts/fb.png" alt="facebook" width ="140" height="60px"/>
+						<table border="0" width ="">
+							<tr><td>Adresse:</td>  <td> &nbsp; &nbsp; 8 Rue Gaston Appert 92390 VILLENEUVE LA GARENNE</td></tr>
+							<tr><td>Tél :</td>   <td> (+)33659984489</td></tr>
+							<tr><td>E-mail : </td>  <td> t2isoft.dev@gmail.com</td></tr>
+						</table>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>   
+        <div class="clear"></div>
+    </div>
+   <div class="footer-bottom">
+        <div class="container">
+            <div class="copyright"><center><br>Copyright © 2013 tous Droits Réservés<br>Réalisé par : <span class="text-orange">T2Isoft</span></center>
+              <!--   <span class="copyright-left"><center>Copyright © 2013 tous Droits Réservés<br>Réalisé par : <span class="text-orange">T2Isoft</span></center></span>
+              <span class="copyright-right">Réalisé par : <span class="text-orange">T2Isoft</span></span>-->
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+
+</div>                          
+</body>
+</html>

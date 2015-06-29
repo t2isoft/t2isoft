@@ -12,10 +12,10 @@ if(isset($_POST) && isset($_POST['nom']) && isset($_POST['email']) && isset($_PO
           'Reply-To: '.$_POST['email']."\r\n".
     'X-Mailer: PHP/'.phpversion();
     if (mail($destinataire,$sujet,$message,$entete)){
-      echo "<script type='text/javascript'>document.location.replace('index.html');</script>";
+      echo "<script type='text/javascript'>document.location.replace('index.php');</script>";
     } else {
-      echo "<script type='text/javascript'>document.location.replace('index.html');</script>";
+      echo "<script type='text/javascript'>document.location.replace('index.php');</script>";
     }
   }
 }
-echo "<script type='text/javascript'>document.location.replace('index.html');</script>";
+echo "<script type='text/javascript'>document.location.replace('index.php');</script>";
