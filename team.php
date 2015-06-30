@@ -29,7 +29,7 @@
                 <ul class="middle-menu">
                 
                     <li class="active-menu">
-                        <a href="team.html">
+                        <a href="team.php">
                             <div class="tf-top-menu"></div>
                             <img src="images/ico_menu/menu1.png" alt="" />
                             <h4 class="text-white ">Agence</h4>
@@ -38,7 +38,7 @@
                     </li>
                     
                     <li>
-                        <a href="site-web.html" >
+                        <a href="site-web.php" >
                             <div class="tf-top-menu"></div>
                             <img src="images/ico_menu/menu2.png" alt="" />
                             <h4 class="text-white">Site web</h4>
@@ -47,7 +47,7 @@
                     </li>
                     
                     <li>
-                        <a href="application.html">
+                        <a href="application.php">
                             <div class="tf-top-menu"></div>
                             <img src="images/ico_menu/menu3.png" alt="" />
                             <h4 class="text-white">Applications</h4>
@@ -56,7 +56,7 @@
                     </li>
                     
                     <li>
-                        <a href="graphisme.html">
+                        <a href="graphisme.php">
                             <div class="tf-top-menu"></div>
                             <img src="images/ico_menu/menu5.png" alt="" />
                             <h4 class="text-white">Graphisme</h4>
@@ -65,7 +65,7 @@
                     </li>
                     
                     <li>
-                        <a href="referencement.html">
+                        <a href="referencement.php">
                             <div class="tf-top-menu"></div>
                             <img src="images/ico_menu/menu4.png" alt="" />
                             <h4 class="text-white">Référencement</h4>
@@ -74,7 +74,7 @@
                     </li>
                     
                     <li>
-                        <a href="maintenance.html">
+                        <a href="maintenance.php">
                             <div class="tf-top-menu"></div>
                             <img src="images/ico_menu/menu6.png" alt="" />
                             <h4 class="text-white">Maintenance</h4>
@@ -102,7 +102,7 @@
                             <div class="col col_1_4 ">
                             <div class="inner">
                             
-                            <a href="karl-details.html">
+                            <a href="karl-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_1.jpg"  alt=""></div>
@@ -122,7 +122,7 @@
                             
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="imade-details.html">
+                            <a href="imade-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_2.jpg" alt=""></div>
@@ -141,7 +141,7 @@
                             
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.html">
+                            <a href="member-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_3.jpg"alt=""></div>
@@ -160,7 +160,7 @@
                             
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.html">
+                            <a href="member-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_4.jpg" alt=""></div>
@@ -181,7 +181,7 @@
                         <div class="row">
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.html">
+                            <a href="member-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_5.jpg"  alt=""></div>
@@ -200,7 +200,7 @@
                             
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.html">
+                            <a href="member-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_6.jpg" alt=""></div>
@@ -219,7 +219,7 @@
                             
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.html">
+                            <a href="member-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_7.jpg" alt=""></div>
@@ -238,7 +238,7 @@
                             
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.html">
+                            <a href="member-details.php">
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_8.jpg" alt=""></div>
