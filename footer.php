@@ -38,7 +38,7 @@
                     <div class="widget-container widget-testimonials">
                         <h3 class="widget-title">Informations</h3>
                         <p><a href="team.php">Qui sommes-nous ?</a></p>
-                        <p><a href="montion.php">Montion légale</a></p>
+                        <!--<p><a href="montion.php">Montion légale</a></p>-->
                         <p><a href="services.php">Nos services</a></p>
                         <p><a href="contacts.php">Contactez-nous</p>
                     </div>
