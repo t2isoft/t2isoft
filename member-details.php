@@ -1,4 +1,18 @@
-﻿<?php include("footer.php"); ?>
+<?php include("header.php"); ?>
+        <!--/header-->
+        
+                         <!--header title-->
+                    <div class="header-title box_white">
+                        <div class="header-title-content text-left">
+                            <h1>Notre équipe</h1>
+                        </div>
+                        
+                       
+                    </div>
+                    <!--/header title-->
+            </div>
+                <div class="clear"></div>
+        </div>
         <!--/header-->
         
         
