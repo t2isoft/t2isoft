@@ -158,7 +158,7 @@
                             </div>
                             </div>
                             
-                            <div class="col col_1_4 ">
+                           <!-- <div class="col col_1_4 ">
                             <div class="inner">
                             <a href="member-details.php">
                             <div class="team-box-hover">
@@ -254,7 +254,7 @@
                             </a>
                             </div>
                             </div>
-                        </div>
+                        </div>-->
                         <!----------------------FIN EQUIP-------------------------------->
                         <div class="divider"></div>
                         
