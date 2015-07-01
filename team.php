@@ -1,4 +1,4 @@
-﻿<?php include("header.php"); ?>
+<?php include("header.php"); ?>
                  
                  <!--header title-->
                     <div class="header-title box_white">
@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class="white-background">
-			
+            
                 <ul class="middle-menu">
                 
                     <li class="active-menu">
@@ -95,7 +95,7 @@
                 <article class="post-detail">            
                     <div class="entry">
                         <div class="title">
-                            <h1>Collaborateurs</h1>	    
+                            <h1>Collaborateurs</h1>     
                         </div>
                         
                         <div class="row">
@@ -109,8 +109,8 @@
                                        <div class="team-text">
                                             <h4>Karl Kelleoglu</h4>
                                             <h5>Chef de Projet</h5>
-                                            <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
-                                            <div class="team-contact">@karlkelleoglu</div>
+                                            <!--<p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
+                                            <div class="team-contact">@karlkelleoglu</div>-->
                                         </div>
                                         <div class="clear"></div>
                                     </div>        
@@ -129,8 +129,8 @@
                                        <div class="team-text">
                                             <h4>Imade touil</h4>
                                             <h5>Développeur web</h5>
-                                            <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
-                                            <div class="team-contact">@imadetouil</div>
+                                            <!--<p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
+                                            <div class="team-contact">@imadetouil</div>-->
                                         </div>
                                         <div class="clear"></div>
                                     </div>        
@@ -139,7 +139,7 @@
                             </div>
                             </div>
                             
-                            <!-- <div class="col col_1_4 ">
+                            <!--<div class="col col_1_4 ">
                             <div class="inner">
                             <a href="member-details.php">
                             <div class="team-box-hover">
@@ -158,7 +158,7 @@
                             </div>
                             </div>
                             
-                           <div class="col col_1_4 ">
+                            <div class="col col_1_4 ">
                             <div class="inner">
                             <a href="member-details.php">
                             <div class="team-box-hover">
@@ -284,7 +284,7 @@
                         <div class="space"></div>
                         <div class="divider"></div>
                         <div class="title">
-						</div>-->
+                        </div>-->
                          
                         <div class="row">
                             <div class="col col_1_3">
@@ -366,4 +366,3 @@
 </div>
 <!--/middle-->
 <?php include("footer.php"); ?>
-
