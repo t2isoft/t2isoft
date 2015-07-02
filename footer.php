@@ -66,7 +66,7 @@
     </div>
    <div class="footer-bottom">
         <div class="container">
-            <div class="copyright"><center>Copyright © 2015 tous Droits Réservés<br>Réalisé par : <span class="text-orange">T2Isoft</span></center>
+            <div class="copyright"><center>Copyright © <?php echo date('Y'); ?> tous Droits Réservés<br>Réalisé par : <span class="text-orange">T2Isoft</span></center>
                 <div class="clear"></div>
             </div>
         </div>
