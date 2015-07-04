@@ -102,7 +102,11 @@
                             <div class="col col_1_4 ">
                             <div class="inner">
 
+<<<<<<< HEAD
                             <a href="karl-details.php">
+=======
+                            <!--<a href="karl-details.php">-->
+>>>>>>> origin/master
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_1.jpg"  alt=""></div>
@@ -116,13 +120,17 @@
                                     </div>
                             </div>
 
+<<<<<<< HEAD
                             </a>
+=======
+                            <!--</a>-->
+>>>>>>> origin/master
                             </div>
                             </div>
 
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="imade-details.php">
+                            <!--<a href="imade-details.php">-->
                             <div class="team-box-hover">
                                     <div class="team-description">
                                         <div class="team-image"><img src="images/team/pers_2.jpg" alt=""></div>
@@ -135,7 +143,7 @@
                                         <div class="clear"></div>
                                     </div>
                             </div>
-                            </a>
+                            <!--</a>--->
                             </div>
                             </div>
 
