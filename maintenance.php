@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
-        
-        
+
+
         <div class="black-background">
             <div class="container">
                  <!--header slider-->
@@ -11,9 +11,9 @@
             </div>
         </div>
         <div class="white-background">
-			
+
                 <ul class="middle-menu">
-                
+
                     <li>
                         <a href="team.php">
                             <div class="tf-top-menu"></div>
@@ -22,7 +22,7 @@
                             <div class="tf-bottom-menu"></div>
                         </a>
                     </li>
-                    
+
                     <li>
                         <a href="site-web.php" >
                             <div class="tf-top-menu"></div>
@@ -31,7 +31,7 @@
                             <div class="tf-bottom-menu"></div>
                         </a>
                     </li>
-                    
+
                     <li>
                         <a href="application.php">
                             <div class="tf-top-menu"></div>
@@ -40,7 +40,7 @@
                             <div class="tf-bottom-menu"></div>
                         </a>
                     </li>
-                    
+
                     <li>
                         <a href="graphisme.php">
                             <div class="tf-top-menu"></div>
@@ -49,7 +49,7 @@
                             <div class="tf-bottom-menu"></div>
                         </a>
                     </li>
-                    
+
                     <li>
                         <a href="referencement.php">
                             <div class="tf-top-menu"></div>
@@ -58,7 +58,7 @@
                             <div class="tf-bottom-menu"></div>
                         </a>
                     </li>
-                    
+
                     <li class="active-menu">
                         <a href="maintenance.php">
                             <div class="tf-top-menu"></div>
@@ -67,9 +67,9 @@
                             <div class="tf-bottom-menu"></div>
                         </a>
                     </li>
-                    
+
                 </ul>
-                
+
         </div>
 <!-- middle -->
 <div class="white-background">
@@ -77,22 +77,22 @@
         <div id="middle" class="full_width box_white">
             <!-- content -->
             <div class="content" role="main">
-            
-                <article class="post-detail">            
+
+                <article class="post-detail">
                     <div class="entry">
-                    
+
                         <div class="row">
                             <div class="col col_2_3">
                                 <div class="inner">
                                     <div class="title">
                                         <h1>Refonte de votre site Internet</h1>
                                     </div>
-                                    <p>Votre site Web aurait-il sérieusement besoin d’une mise à jour? Parce que les tendances et technologies du Web et du design évoluent très rapidement, 
-									il est crucial de mettre son site Internet à jour tous les 2 ans maximum.Le Web est devenu une plateforme dynamique et non plus statique comme par le passé.
-									L’ère du Html et du Flash est révolue. Il faut s’adapter au risque d’être devancé par la compétition. Si votre site est démodé et archaïque,
-									Google vous pénalisera dans vos classements et les utilisateurs fuiront votre site à toute vitesse!
-										L’expérience de vos clients sur votre site doit être moderne, fluide et agréable, 
-										car cette expérience fait partie de la première impression, impression cruciale, qu’ils auront de vous et votre entreprise.</p>
+                                    <p>Votre site Web aurait-il sérieusement besoin d’une mise à jour? Parce que les tendances et technologies du Web et du design évoluent très rapidement,
+                      									il est crucial de mettre son site Internet à jour.Le Web est devenu une plateforme dynamique et non plus statique comme par le passé.
+                      									L’ère du Html et du Flash est révolue. Il faut s’adapter au risque d’être devancé par la compétition. Si votre site est démodé et archaïque,
+                      									Google vous pénalisera dans vos classements et les utilisateurs fuiront votre site à toute vitesse!
+                      										L’expérience de vos clients sur votre site doit être moderne, fluide et agréable,
+                      										car cette expérience fait partie de la première impression, impression cruciale, qu’ils auront de vous et de votre entreprise.</p>
                                 </div>
                             </div>
                             <div class="col col_1_3">
@@ -140,7 +140,6 @@
 									<li><span id="char">*</span> Nouveau design de votre page d’accueil intégrant une galerie d’images défilantes</li>
 									<li><span id="char">*</span> Intégration de modules de statistiques intelligents </li>
 									<li><span id="char">* </span>Restructuration de la navigation pour la rendre claire, intuitive et simple</li>
-									<li><span id="char">*</span> Mise en évidence du contenu que vous voulez que vos clients VOIENT</li>
 									<li><span id="char">* </span>Mise à jour de l’ensemble du contenu du site Web (images, textes et vidéos)</li>
 									<li><span id="char">*</span> Optimisation de la structure d’arrière-plan pour un meilleur classement dans Google</li>
 									</ul>
@@ -153,16 +152,16 @@
                                 </div>
                             </div>
                         </div><br>
-						
-                
-            
+
+
+
 					</div><div class="clear"></div>
 					</div>
                 </article>
-                
+
         </div>
             <!--/content-->
-            
+
             <div class="clear"></div>
     </div>
          <div class="clear"></div>
@@ -171,7 +170,7 @@
                 <div class="container">
                     <div class="slider-inner">
                         <h2 class="text-bold">Technologies utilisées</h2>
-                                    
+
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
@@ -208,8 +207,7 @@
                     <div class="clear"></div>
                 </div>
                 </div>
-<div class="clear">            
+<div class="clear">
 </div>
 <!--/middle-->
 <?php include("footer.php"); ?>
-

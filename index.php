@@ -4,7 +4,7 @@
                         <div class="header-title-content text-center">
                             <h1><span class="text-orange">Votre agence </span>de développement informatiques  </h1>
                         </div>
-                        
+
                         <!--top search--
                         <div class="topsearch">
 						<form action="#" method="POST" >
@@ -16,13 +16,13 @@
                         <!--/top search-->
                     </div>
                     <!--/header title-->
-                    
+
             </div>
                 <div class="clear"></div>
         </div>
         <!--/header-->
-        
-        
+
+
         <div class="black-background">
             <div class="container">
             <div class="tf-header-slider">
@@ -32,20 +32,20 @@
                         <a href="#"> <img src="images/img/slide.png" alt="" /></a>
                         <div class="details">
                             <div class="text-details">
-                                <h2 class="text-bold text-white">Unique & Creative</h2> 
+                                <h2 class="text-bold text-white">Unique & Creative</h2>
                             </div>
                         </div>
                     </li>
-                    
+
                     <li>
                         <a href="#"><img src="images/img/slide1.png" alt="" /></a>
                         <div class="details">
                             <div class="text-details">
-                                <h2 class="text-bold text-white">Couleurs illimitées</h2>
+                                <h2 class="text-bold text-white">Infinité de Possibilité</h2>
                             </div>
                         </div>
                     </li>
-                    
+
                     <li>
                         <a href="#"><img src="images/img/slide2.png" alt="" /></a>
                         <div class="details">
@@ -54,18 +54,18 @@
 
                             </div>
                         </div>
-                        
+
                     </li>
-                   
-                  
-                    
-                   
+
+
+
+
                   </ul>
                 </div>
             </div>
             </div>
         </div>
-        
+
 <!-- middle -->
         <div class="white-background">
             <div class="container ">
@@ -77,36 +77,36 @@
                                 <img src="images/tuts/ico1.jpg" alt="" />
                                 <h2 class="text-bold text-white">Web Design</h2>
                                 <p>
-                                Notre équipe de designers unifie votre image afin de créer une identité numérique cohérente.
+                                Notre équipe de designers unifie votre image afin de créer votre identité numérique cohérente.
                                <a href="graphisme.php" class="text-silver">More..</a>
                                 </p>
                             </div>
                             </div>
-                                    
+
                                     <div class="col col_1_3">
                                         <div class="inner">
                                         <img src="images/tuts/ico3.jpg" alt="" />
                                         <h2 class="text-bold text-white">Création Web</h2>
-                                        <p><span class="text-silver">T2Isoft </span>vous accompagne pour la réalisation de votre site ou application afin de communiquer autour de votre activité  <a href="site-web.php" class="text-silver">More..</a></p>
+                                        <p><span class="text-silver">T2Isoft </span>vous accompagne pour la réalisation de votre site web ou application mobile afin de communiquer autour de votre activité  <a href="site-web.php" class="text-silver">More..</a></p>
                                         </div>
                                     </div>
-                                    
+
                                     <div class="col col_1_3">
                                         <div class="inner">
                                         <img src="images/tuts/android-icon.png" alt="" />
                                         <h2 class="text-bold text-white">Applications mobiles</h2>
-                                        <p><span class="text-silver">T2Isoft</span> peut répondre à tous les types de programmation  d’applications Web (lourd & légère). <a href="application.php" class="text-silver">More..</a></p>
+                                        <p><span class="text-silver">T2Isoft</span> peut répondre à tous types de d’applications Web & Mobile <a href="application.php" class="text-silver">More..</a></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="clear"></div>
                             </div>
                         </div>
-                        
+
     <div id="middle" class="cols2 sidebar_left box_white">
-                         
+
         <div class="content" role="main">
-            <article class="post-detail">            
+            <article class="post-detail">
                 <div class="entry">
                     <div class="row">
                         <div class="col col_1_2">
@@ -124,18 +124,19 @@
                         </div>
                     </div>
                     <div class="clear"></div>
-                    
+
                     <div class="row">
                    <div class="work-carousel">
             <!--
                         <div class="work-carousel-head">
-                            
+
                             <a class="prev" id="work-carousel-prev" href="#"><span>prev</span></a>
                             <a class="next" id="work-carousel-next" href="#"><span>next</span></a>
-                        </div>          --->
+                        </div>
+            --->
                         <div class="carousel_content">
                         <ul id="work-carousel">
-                           <li> 
+                           <li>
                                         <a href="site-web.php">
                                             <div class="work-item">
                                             <div class="work-img"><img src="images/tuts/dev.png" alt="" /></div>
@@ -146,11 +147,11 @@
                                             </div>
                                             </div>
                                          </a>
-                                    
+
                                 </li>
-                                
+
                                 <li>
-                                    
+
                                         <a href="referencement.php">
                                             <div class="work-item">
                                             <div class="work-img"><img src="images/tuts/mise-en-ligne.png" alt="" /></div>
@@ -161,120 +162,120 @@
                                             </div>
                                             </div>
                                         </a>
-                                   
+
                                 </li>
-                                
-                                
+
+
                         </ul>
-                        </div>   
+                        </div>
                     </div>
-          
-                    
-                      
+
+
+
                     </div>
-                        
+
                 </div>
-                    
+
             </article>
         </div>
        <div class="sidebar">
             <div class="widget-post">
 		<br><br><br><br>
-                                    
+
                                         <a href="expertise.php">
                                             <div class="work-item">
                                             <div class="work-img"><img src="images/tuts/expertise.png"  alt="Conseil & Expertise" /></div>
                                             <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                             <h4 class="text-white text-bold">Conseil & Expertise</h4>
-                                            <p class="text-white">Audite du site .</p>
+                                            <p class="text-white">Audite de site .</p>
                                             </div>
                                             </div>
                                         </a>
-                                   
-                               
-              
+
+
+
             </div>
         </div>
-    
+
         <div class="clear"></div>
         <div class="divider-space"></div>
-        
+
         <div class="widget-more">
              <div class="post-more">
-                <h2 class="text-bold text-darkgray"><span class="text-orange">T2Isoft</h2></span> <h3>propose autre services web</h3>
+                <h2 class="text-bold text-darkgray"><span class="text-orange">T2Isoft</h2></span> <h3>Nous proposons nos services</h3>
                 <h4> </h4>
                 <div class="space"></div>
                 <!--<a href="#" class="btn button_styled_medium btn_gray">Get theme all</a>-->
-                <div class="space"></div>  
+                <div class="space"></div>
             </div>
-            
+
             <div class="row">
                                     <div class="col col_1_4">
                                         <div class="inner">
                                             <div class="work-item">
-                           <a href = "referencement.php"> 
+                           <a href = "referencement.php">
 											  <div class="work-img"><img src="images/tuts/reference.png" alt="" /></div>
                                                 <div class="mini-work-title">
-                                                    
-                                                    <h4 class="text-black text-bold">Référencement Internet</h4>
+
+                                                    <h4 class="text-black text-bold">Référencement </h4>
 							</a>
                                                   <!--  <p class="text-gray">Référencement Google,Naturel,Payant et Marketing Web pour les entreprises</p>-->
                                                 </div>
                                              </div>
                                         </div>
                                     </div>
-                                
+
                                     <div class="col col_1_4">
                                         <div class="inner">
                                            <div class="work-item">
-								 <a href = "marketing.php"> 
+								 <a href = "marketing.php">
                                                 <div class="work-img"><img src="images/tuts/medias.png" alt="" /></div>
                                                 <div class="mini-work-title">
-                                                    
-                                                    <h4 class="text-black text-bold">Marketing du contenu et médias sociaux</h4>
-                                   </a>            
+
+                                                    <h4 class="text-black text-bold">Marketing des médias sociaux</h4>
+                                   </a>
 											   <!--     <p class="text-gray">Decided to make a notification freebie</p>-->
                                                 </div>
                                              </div>
                                         </div>
                                     </div>
-                                
+
                                     <div class="col col_1_4">
                                         <div class="inner">
                                             <div class="work-item">
-                                    <a href = "site-web.php"> 
+                                    <a href = "site-web.php">
 												<div class="work-img"><img src="images/tuts/design.png" alt="" /></div>
                                                 <div class="mini-work-title">
-                                                  
-                                                    <h4 class="text-black text-bold">Mise à jour et refonte de site web</h4>
-                                    </a>           
+
+                                                    <h4 class="text-black text-bold">Maintenance et refonte de site web</h4>
+                                    </a>
 									<!--  <p class="text-gray">iPod weheel with touch. What do you think ?</p>-->
                                                 </div>
                                              </div>
                                         </div>
                                     </div>
-                                
+
                                     <div class="col col_1_4">
                                         <div class="inner">
                                             <div class="work-item">
-                                 <a href = "referencement.php">               
+                                 <a href = "referencement.php">
 													<div class="work-img"><img src="images/tuts/optimisation.png" alt="" /></div>
                                                 <div class="mini-work-title">
-                                                    
+
                                                     <h4 class="text-black text-bold">Optimisation du taux de conversion</h4>
-                                 </a>               
+                                 </a>
 											<!--	<p class="text-gray">Get them now while they are hot!</p>-->
                                                 </div>
                                              </div>
                                         </div>
                                     </div>
                                 </div>
-            
+
         </div>
         <div class="clear"></div>
     </div>
-                
+
                     <div class="footer-slider">
                     <div class="container">
                         <div class="slider-inner">
@@ -310,8 +311,8 @@
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>
-                            </div>            
-                               
+                            </div>
+
                         </div>
                         <div class="clear"></div>
                     </div>

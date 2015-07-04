@@ -1,7 +1,7 @@
 ﻿<?php include("header.php"); ?>
         <!--/header-->
-        
-        
+
+
         <div class="black-background">
             <div class="container">
                  <!--header slider-->
@@ -9,7 +9,7 @@
                         <div class="header-title-content text-left ">
                             <h1 class="text-white">Services</h1>
                         </div>
-                        
+
                         <!--top search-->
                         <div class="topsearch">
 						<form action="#" method="POST" >
@@ -24,7 +24,7 @@
                     <!--/header slider-->
             </div>
         </div>
-        
+
 <!-- middle -->
 <div class="white-background">
     <div class="container ">
@@ -33,10 +33,10 @@
             <div class="content" role="main">
                 <article class="post-item">
                     <div class="entry">
-                    
+
                       <div class="big-space"></div>
                         <div class="clear"></div>
-                        
+
                         <div class="row">
                             <div class="col col_1_3">
                                 <div class="inner">
@@ -51,12 +51,12 @@
                                     </div>
                                 </a>
                                 <div class="services-text">
-                                    <p>Notre objectif est de créer des sites web performants qui donne de la visibilité à votre entreprise et apporte un réel retour sur investissement. </p>
+                                    <p>Notre objectif est de créer des sites web performants qui donne de la visibilité à votre entreprise et apporte une valeur ajouter à votre entreprise. </p>
                                     <a href="site-web.php">Savoir plus</a>
                                 </div>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="application.php">
@@ -77,7 +77,7 @@
                                 </div>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="graphisme.php">
@@ -117,7 +117,7 @@
                                 </div>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="maintenance.php">
@@ -136,7 +136,7 @@
                                 </div>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="marketing.php">
@@ -157,12 +157,12 @@
                             </div>
                         </div>
                             <div class="clear"></div>
-                        
+
                     </div>
                 </article>
             </div>
             <!--/content-->
-           
+
             <div class="clear"></div>
         </div>
          <div class="clear"></div>
@@ -171,7 +171,7 @@
                 <div class="container">
                     <div class="slider-inner">
                         <h2 class="text-bold">Technologies utilisées</h2>
-                                    
+
                            <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
@@ -203,13 +203,12 @@
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>
-                            </div>  
+                            </div>
                     </div>
                     <div class="clear"></div>
                 </div>
                 </div>
-    <div class="clear">            
+    <div class="clear">
 </div>
 <!--/middle-->
 <?php include("footer.php"); ?>
-
