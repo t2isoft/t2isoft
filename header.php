@@ -12,7 +12,7 @@
 
 <meta name="author" content="T2ISOFT">
 <meta name="keywords" content="">
-<title> T2ISOFT Agence-web</title>
+<title> T2ISOFT Agence web</title>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
 <link href="style.css" media="screen" rel="stylesheet">
 <link href="screen.css" media="screen" rel="stylesheet">
@@ -46,7 +46,7 @@
 <script src="js/search-input.js"></script>
 
     <script type="text/javascript" charset="utf-8">
-  
+
     $(window).load(function() {
       $('.tf-header-slider').flexslider({
         animation: "fade",
@@ -54,7 +54,7 @@
         controlNav: true
       });
     });
-    
+
     $(window).load(function() {
       $('.tf-work-carousel').flexslider({
         animation: "slade",
@@ -67,7 +67,7 @@
         }
       });
     });
-    
+
     $(window).load(function() {
       $('.tf-footer-carousel').flexslider({
         animation: "slide",
@@ -79,18 +79,18 @@
         move:1
       });
     });
-    
+
     jQuery(document).ready(function($) {
         $('#work-carousel').carouFredSel({
           next : "#work-carousel-next",
           prev : "#work-carousel-prev",
           auto: false,
           circular: false,
-          infinite: true, 
-          width: '100%',    
+          infinite: true,
+          width: '100%',
           scroll: {
-            items : 1         
-          }   
+            items : 1
+          }
         });
       });
   </script>
@@ -118,20 +118,20 @@
                     <!--Top Menu-->
                        <div id="topmenu">
                         <ul class="dropdown">
-                            <li class="menu-level-0"><a href="team.php">Agence <span>Qui sommes-nous ?</span></a></li>            
+                            <li class="menu-level-0"><a href="team.php">Agence <span>Qui sommes-nous ?</span></a></li>
                             <li class="menu-level-0"><a href="services.php">Services <span>Nos services</span></a></li>
                             <li class="menu-level-0"><a href="realisation.php">Réalisations <span>Nos réalisations</span></a></li>
-                            <li class="menu-level-0"><a href="expertise.php">Solutions <span>Notre expertise</span></a>   </li>                        
-                          
+                            <li class="menu-level-0"><a href="expertise.php">Solutions <span>Notre expertise</span></a>   </li>
+
                         </ul>
                     </div>
                        <!--/top menu-->
                     </div>
-                    
+
                     <!--Let's Do It-->
                     <a href="contacts.php"><div class="header-box box_orange"><h2 class=" text-white text-extrabold"> CONTACTEZ  NOUS...</h2></div></a>
                     <!--/let's do it-->
                     <div class="clear"></div>
-                    
-                   
+
+
                 </div>

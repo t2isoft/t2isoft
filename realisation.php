@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
         <!--/header-->
-        
-        
+
+
         <div class="black-background">
             <div class="container">
                  <!--header slider-->
@@ -9,7 +9,7 @@
                         <div class="header-title-content text-left ">
                             <h1 class="text-white">Nos réalisations</h1>
                         </div>
-                        
+
                         <!--top search-->
                         <!-- <div class="topsearch">
 						<form action="#" method="POST" >
@@ -24,7 +24,7 @@
                     <!--/header slider-->
             </div>
         </div>
-        
+
 <!-- middle -->
 <div class="white-background">
     <div class="container ">
@@ -33,18 +33,18 @@
             <div class="content" role="main">
                 <article class="post-item">
                     <div class="entry">
-                    
+
                         <div class="title">
                                         <h1>Portfolio de<a href="site-web.php" class="lien"> nos Sites web </a>& <a href="application.php" class="lien"> Application mobile</a> </h1>
                                     </div>
-                                    <p>Voici quelques un des sites Internet que nous avons récemment complétés. 
+                                    <p>Voici quelques un des sites Internet que nous avons réalisé récemment.
 									Nous pouvons créer des sites Internet de tous les styles pour tous les goûts et tous les budgets.
-									Le but de notre service de Design web est de refléter le plus adéquatement possible votre image. 
-								Vous aurez le choix entre une vaste sélection de thèmes et de modèles de site web ou un design professionnel 
+									Le but de notre service de Design web est de refléter le plus adéquatement possible votre image.
+								Vous aurez le choix entre une vaste sélection de thèmes et de modèles de site web ou un design professionnel
 								crée sur mesure et selon vos critères par nos designers et infographes. Que ce soit pour un site vitrine,
 								un site Internet d’entreprise ou une boutique en ligne,notre équipe peut vous aider à vous démarquer avec une présence web professionnelle de qualité.</div>
-					        
-                        
+
+
                         <div class="clear"></div>
                         <hr><br>
                         <div class="row">
@@ -60,10 +60,10 @@
                                         </div>
                                     </div>
                                 </a>
-                                
+
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="http://cielbleu-bezons.fr/">
@@ -78,7 +78,7 @@
                                 </a>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="http://demenagement-transport-93.com/">
@@ -94,7 +94,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="row">
                             <div class="col col_1_3">
                                 <div class="inner">
@@ -110,7 +110,7 @@
                                 </a>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="#">
@@ -125,7 +125,7 @@
                                 </a>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="#">
@@ -141,7 +141,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="row">
                             <div class="col col_1_3">
                                 <div class="inner">
@@ -157,7 +157,7 @@
                                 </a>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="#">
@@ -172,7 +172,7 @@
                                 </a>
                                 </div>
                             </div>
-                       
+
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="#">
@@ -187,14 +187,14 @@
                                 </a>
                                 </div>
                             </div>
-                            
+
                         </div>
-                        
+
                     </div>
                 </article>
             </div>
             <!--/content-->
-           
+
             <div class="clear"></div>
         </div>
          <div class="clear"></div>
@@ -203,7 +203,7 @@
                 <div class="container">
                     <div class="slider-inner">
                         <h2 class="text-bold">Technologies utilisées</h2>
-                                    
+
                            <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
@@ -235,12 +235,12 @@
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>
-                            </div>  
+                            </div>
                     </div>
                     <div class="clear"></div>
                 </div>
                 </div>
-    <div class="clear">            
+    <div class="clear">
 </div>
 <!--/middle-->
 <?php include("footer.php"); ?>
