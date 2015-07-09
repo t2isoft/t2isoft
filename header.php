@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="custom.css">
 <link href="css/flexslider.css" media="screen" rel="stylesheet" type="text/css">
 <!-- favicon.ico and apple-touch-icon.png -->
-<link rel="shortcut icon" href="http://www.t2isoft.com/images/logo1.png">
+<link rel="shortcut icon" href="http://www.t2isoft.com/images/favicon.png">
 <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57-iphone.php">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72-ipad.php">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114-iphone4.php">
@@ -113,7 +113,7 @@
                 <div class="header">
                     <div class="header-nav box_white">
                     <!--logo-->
-                       <div class="logo"><a href="index.php"><img src="images/logo1.png" alt="T2Isoft" Width="150%" /></a></div>
+                       <div class="logo"><a href="index.php"><img src="images/logo.png" alt="T2Isoft" margin-top: 2cm;  /></a></div>
                     <!--/logo-->
                     <!--Top Menu-->
                        <div id="topmenu">
