@@ -8,10 +8,10 @@
                     <div class="widget-container footer_social">
                         <h3 class="widget-title">Suivez-nous</h3>
                         <ul>
-                            <li><a href="https://www.facebook.com/t2isoft" class="fb"></a></li>
-                            <li><a href="#" class="tw"></a></li>
-                            <li><a href="https://www.linkedin.com/company/t2isoft" class="in"></a></li>
-                            <li><a href="#" class="c"></a></li>
+                          <li><a href="https://www.facebook.com/t2isoft" TARGET="_blank" class="fb"></a></li>
+                          <li><a href="https://twitter.com/t2isoft" TARGET="_blank" class="tw"></a></li>
+                          <li><a href="https://www.linkedin.com/company/t2isoft" TARGET="_blank" class="in"></a></li>
+                          <li><a href="https://www.codeur.com/-t2isoft" TARGET="_blank" class="c"></a></li>
                             <!--<li><a href="#" class="ball"></a></li>
                             <li><a href="#" class="c"></a></li>
                             <li><a href="#" class="v"></a></li>
