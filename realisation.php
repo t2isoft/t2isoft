@@ -130,7 +130,7 @@
                                 <div class="inner">
                                 <a href="http://hotel-dans-paris.fr/" target="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/hotel.png height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/hotel.png" height="170px"  /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Hotel dans Paris</h4>
