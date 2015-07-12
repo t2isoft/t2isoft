@@ -128,7 +128,7 @@
 
                             <div class="col col_1_3">
                                 <div class="inner">
-                                <a href="#">
+                                <a href="http://hotel-dans-paris.fr/" target="_blank">
                                     <div class="work-item">
                                         <div class="work-img"><img src="images/tuts/hotel.jpg" height="170px"  /></div>
                                         <div class="work-title ">
