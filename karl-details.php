@@ -173,7 +173,7 @@
                             <div class="widget_text">
                                 <h4 class="text-bold">Life</h4>
                                 <div class="textwidget">
-                                <p>Chef d’orchestre du développement web, son crédo à lui c’est la gestion de projet, la gestion de son équipe et la gestion de ses clients. Nicolas répondra à vos exigences avec franchise et traduira vos attentes en vous expliquant chaque impact des choix que nous ferons ensemble. Pragmatique, organisé & rigoureux, il gère tout, tout le temps. «Parce qu’on aime vous faciliter la vie.»</p>
+                                <p>Chef d’orchestre du développement web, son crédo à lui c’est la gestion de projet, la gestion de son équipe et la gestion de ses clients. karl répondra à vos exigences avec franchise et traduira vos attentes en vous expliquant chaque impact des choix que nous ferons ensemble. Pragmatique, organisé & rigoureux, il gère tout, tout le temps. «Parce qu’on aime vous faciliter la vie.»</p>
                                 </div>
                             </div>
                            </div>
