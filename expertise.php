@@ -50,10 +50,11 @@ Développer avec des technologies Web efficaces, ergonomiques au service de nos 
 <h3>Notre expertise : </h3>
 <ul>
 <li><span id="char">*</span>	<a href="site-web.php" id="lien">Création de sites Web</a> et <a href="team.php" id="lien">Refonte de sites</a></li>
+<li><span id="char">*</span>	<a href="application.php" id="lien">Création d'application mobile</a></li>
 <li><span id="char">*</span>	<a href="referencement.php" id="lien">			Référencement</a>   et campagne google adword</li>
 <li><span id="char">*</span>	<a href="graphisme.php" id="lien">			Graphisme, Création de logo, Design de cartes d’affaires</a> , Design Web et Infographie</li>
 </ul>
-				<h2>Comment nous pouvons vous aider :? </h2>
+				<h2>Comment nous pouvons vous aider : </h2>
 <ul>
 <li><span id="char">*</span>				Améliorer votre référencement pour avoir plus de visibilité;</li>
 <li><span id="char">*</span>				Optimiser le taux de conversion de visiteurs sur vos site web;</li>
