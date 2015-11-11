@@ -163,7 +163,7 @@
                         <div class="address"><em>Adresse :</em>
                             <p>T2ISOFT Agence web<br /> 8 rue gaston appert <br />Villeneuve la garenne, 92390</p>
                         </div>
-                        <div class="phone"><em>Phone:</em> <span>07 51 06 22 43</span></div>
+                        <div class="phone"><em>Phone:</em> <span>06 59 98 44 86</4span></div>
                         <div class="mail"><em>Email:</em> <a href="mailto:t2isoft.dev@gmail.com">t2isoft.dev@gmail.com</a></div>
                     </div>
             </div>
