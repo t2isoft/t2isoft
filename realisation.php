@@ -47,7 +47,8 @@
 
                         <div class="clear"></div>
                         <hr><br>
-                        <div class="row">
+                        <h2>En maintenance</h2>
+                       <!-- <div class="row">
                             <div class="col col_1_3">
                                 <div class="inner">
                                 <a href="http://www.microceft.fr/">
@@ -188,7 +189,7 @@
                                 </div>
                             </div>
 
-                        </div>
+                        </div>-->
 
                     </div>
                 </article>

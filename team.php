@@ -102,11 +102,11 @@
                             <div class="col col_1_4 ">
                             <div class="inner">
 
-                            <a href="karl-details.php">
+                            <a href="http://karlkelleoglu.com/" target="_blank">
 
                             <div class="team-box-hover">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="images/team/pers_1.jpg"  alt=""></div>
+                                        <div class="team-image"><img src="http://karlkelleoglu.com/assets/photo.jpg"  alt=""></div>
                                        <div class="team-text">
                                             <h4>Karl Kelleoglu</h4>
                                             <h5>Chef de Projet</h5>
@@ -125,10 +125,10 @@
 
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="imade-details.php">
+                            <a href="https://www.linkedin.com/in/imade-touil-b83157b0" target="_blank">
                             <div class="team-box-hover">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="images/team/pers_2.jpg" alt=""></div>
+                                        <div class="team-image"><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/0ab/3e8/020c847.jpg" alt=""></div>
                                        <div class="team-text">
                                             <h4>Imade touil</h4>
                                             <h5>Développeur web</h5>
