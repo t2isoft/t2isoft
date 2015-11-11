@@ -38,9 +38,10 @@
                 <div class="f_col f_col_3">
                     <div class="widget-container widget-testimonials">
                         <h3 class="widget-title">Informations</h3>
-                        <p><a href="team.php">Qui sommes-nous ?</a></p>
+                        <p><a href="team.php">Qui sommes-nous ?</a></p></div><br/>
+                        <p><a href="partners.php">Nos partenaires</a></p><br/>
                         <!--<p><a href="montion.php">Montion légale</a></p>-->
-                        <p><a href="services.php">Nos services</a></p>
+                        <p><a href="services.php">Nos services</a></p><br/>
                         <p><a href="contacts.php">Contactez-nous</p>
                     </div>
                 </div>
