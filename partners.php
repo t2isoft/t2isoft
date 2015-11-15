@@ -103,7 +103,7 @@
                             <div class="inner">
 
                             <a href="http://dream-it.ma/" target="_blank">   
-                                        <div class="team-image"><img src="http://dream-it.ma/img/logo.png"  alt=""></div>
+                                        <div><img src="http://dream-it.ma/img/logo.png"  alt=""></div>
                             </a>
 
                             </div>
