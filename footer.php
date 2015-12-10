@@ -42,7 +42,7 @@
                         <p><a href="partners.php">Nos partenaires</a></p><br/>
                         <!--<p><a href="montion.php">Montion légale</a></p>-->
                         <p><a href="services.php">Nos services</a></p><br/>
-                        <p><a href="contacts.php">Contactez-nous</p>
+                        <!--<p><a href="contacts.php">Contactez-nous</a></p>-->
                     </div>
                 </div>
 
