@@ -121,7 +121,8 @@
                             <li class="menu-level-0"><a href="team.php">Agence <span>Qui sommes-nous ?</span></a></li>
                             <li class="menu-level-0"><a href="services.php">Services <span>Nos services</span></a></li>
                             <li class="menu-level-0"><a href="realisation.php">Réalisations <span>Nos réalisations</span></a></li>
-                            <li class="menu-level-0"><a href="expertise.php">Solutions <span>Notre expertise</span></a>   </li>
+                            <li class="menu-level-0"><a href="devis.php">Tarifs <span>Nos Tarifs</span></a></li>
+                            <!--<li class="menu-level-0"><a href="expertise.php">Solutions <span>Notre expertise</span></a>   </li>-->
 
                         </ul>
                     </div>
