@@ -12,7 +12,7 @@
             <div class="container">
                  <!--header slider-->
                    <div class="header-slider">
-                        <img src="images/img/slide_img_4.jpg">
+                        <img src="dist/img/img/slide_img_4.jpg">
                     </div>
                     <!--/header slider-->
             </div>
@@ -35,7 +35,7 @@
                            <div class="row">
                             <div class="col col_1">
                                 <div class="inner">
-                                    <img src="images/tuts/langage.png" class="graphisme"  />
+                                    <img src="dist/img/tuts/langage.png" class="graphisme"  />
                                 </div>
                             </div>
                            </div>
@@ -70,7 +70,7 @@ Développer avec des technologies Web efficaces, ergonomiques au service de nos 
                                 <div class="inner">
 
                                     <div class="widget_url">
-                                        <img src="images/tuts/go3.png" class="go3" />
+                                        <img src="dist/img/tuts/go3.png" class="go3" />
                                     </div>
                                 </div>
                             </div>
@@ -95,31 +95,31 @@ Développer avec des technologies Web efficaces, ergonomiques au service de nos 
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt=""  />
+                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/java.png" alt=""  />
+                                        <img src="dist/img/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/js.png" alt="" />
+                                        <img src="dist/img/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/mysql.png" alt=""  />
+                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt="" />
+                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

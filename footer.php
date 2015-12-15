@@ -29,6 +29,7 @@
                             <li><a href="services.php"> Services</a></li>
                             <li><a href="realisation.php"> Réalisations</a></li>
                             <li><a href="expertise.php"> Solutions</a></li>
+                            <li><a href="devis.php"> Tarifs</a></li>
                             <li><a href="contacts.php"> Contactez-nous</a></li>
 
                         </ul>
@@ -40,7 +41,7 @@
                         <h3 class="widget-title">Informations</h3>
                         <p><a href="team.php">Qui sommes-nous ?</a></p></div><br/>
                         <p><a href="partners.php">Nos partenaires</a></p><br/>
-                        <!--<p><a href="montion.php">Montion légale</a></p>-->
+                        <p><a href="montion.php">Montion légale</a></p><br/>
                         <p><a href="services.php">Nos services</a></p><br/>
                         <!--<p><a href="contacts.php">Contactez-nous</a></p>-->
                     </div>
@@ -51,7 +52,7 @@
                 <div class="f_col f_col_5">
                     <div class="widget-container widget-send-feedback">
                         <h3 class="widget-title">Contactez-nous</h3>
-                        <!--<img src="images/tuts/fb.png" alt="facebook" width ="140" height="60px"/>-->
+                        <!--<img src="dist/img/tuts/fb.png" alt="facebook" width ="140" height="60px"/>-->
                         <table border="0" width ="">
                             <tr><td>Adresse:</td>  <td> &nbsp; &nbsp; Villeneuve</td></tr>
                             <tr><td>Tél :</td>   <td> (+)33659984486</td></tr>

@@ -1,4 +1,4 @@
-﻿<?php include("header.php"); ?>
+<?php include("header.php"); ?>
         <!--/header-->
 
 
@@ -6,7 +6,7 @@
             <div class="container">
                  <!--header slider-->
                    <div class="header-slider">
-                        <img src="images/img/slide_img_4.jpg">
+                        <img src="dist/img/img/slide_img_4.jpg">
                     </div>
                     <!--/header slider-->
             </div>
@@ -29,7 +29,7 @@
                            <div class="row">
                             <div class="col col_1">
                                 <div class="inner">
-                                    <img src="images/tuts/marketing.png" class="graphisme"  />
+                                    <img src="dist/img/tuts/marketing.png" class="graphisme"  />
                                 </div>
                             </div>
                            </div>
@@ -49,7 +49,7 @@
                                 <div class="inner">
 
                                     <div class="widget_url">
-                                        <img src="images/tuts/marketing2.png" />
+                                        <img src="dist/img/tuts/marketing2.png" />
                                     </div>
                                 </div>
                             </div>
@@ -74,31 +74,31 @@
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt=""  />
+                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/java.png" alt=""  />
+                                        <img src="dist/img/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/js.png" alt="" />
+                                        <img src="dist/img/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/mysql.png" alt=""  />
+                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt="" />
+                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>
