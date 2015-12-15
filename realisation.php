@@ -201,7 +201,7 @@
                           <div class="inner">
                           <a href="http://www.microceft.890m.com/" TARGET="_blank">
                               <div class="work-item">
-                                  <div class="work-img"><img src="images/tuts/microceft.jpg" height="170px"  /></div>
+                                  <div class="work-img"><img src="dist/img/tuts/microceft.jpg" height="170px"  /></div>
                                   <div class="work-title">
                                       <div class="corner-orange-top"></div>
                                         <h4 class="text-white text-bold">Microceft</h4>
