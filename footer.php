@@ -41,7 +41,7 @@
                         <h3 class="widget-title">Informations</h3>
                         <p><a href="team.php">Qui sommes-nous ?</a></p></div><br/>
                         <p><a href="partners.php">Nos partenaires</a></p><br/>
-                        <p><a href="montion.php">Montion légale</a></p><br/>
+                        <p><a href="montion.php">Mentions légales</a></p><br/>
                         <p><a href="services.php">Nos services</a></p><br/>
                         <!--<p><a href="contacts.php">Contactez-nous</a></p>-->
                     </div>
