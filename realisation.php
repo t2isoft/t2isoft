@@ -243,21 +243,9 @@
                                   </div>
                               </div>
 
-<<<<<<< HEAD
-=======
-                              <div class="col col_1_3">
-                                                              <div class="inner">
-                                                              <a href="http://www.microceft.fr/">
-                                                                  <div class="work-item">
-                                                                      <div class="work-img"><img src="dist/img/tuts/microceft.jpg" height="170px"  /></div>
-                                                                      <div class="work-title">
-                                                                          <div class="corner-orange-top"></div>
-                              											<h4 class="text-white text-bold">microceft.fr</h4>
-                              											<p class="text-white">Vente matériaux informatique</p>
-                                        </div>
-                                    </div>
-                                </a>
->>>>>>> origin/master
+
+
+
 
 
 
