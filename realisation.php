@@ -55,7 +55,7 @@
                                       <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Overpoweredrecords.com</h4>
+                                          <h4 class="text-white text-bold">Overpoweredrecords</h4>
                                           <p class="text-white">Vente disques de musiques</p>
                                       </div>
                                   </div>
@@ -120,7 +120,7 @@
                                         <div class="work-img"><img src="images/tuts/karl.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
-                                            <h4 class="text-white text-bold">Karlkelleoglu.com</h4>
+                                            <h4 class="text-white text-bold">Karlkelleoglu</h4>
                                             <p class="text-white">Portfolio professionnel</p>
                                         </div>
                                     </div>
@@ -186,7 +186,7 @@
                                           <div class="work-title ">
                                               <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">Hotel dans Paris</h4>
-                                              <p class="text-white">Réservation en ligne</p>
+                                              <p class="text-white">Réservation de chambre d'hotel en ligne</p>
                                           </div>
                                       </div></div>
                                   </a>
@@ -196,6 +196,22 @@
 
 
                             <div class="row">
+
+                          <div class="col col_1_3">
+                          <div class="inner">
+                          <a href="http://www.microceft.890m.com/" TARGET="_blank">
+                              <div class="work-item">
+                                  <div class="work-img"><img src="images/tuts/microceft.jpg" height="170px"  /></div>
+                                  <div class="work-title">
+                                      <div class="corner-orange-top"></div>
+                                        <h4 class="text-white text-bold">Microceft</h4>
+                                        <p class="text-white">Vente matériaux informatique</p>
+                                      </div>
+                                    </div>
+                                </a>
+
+                                </div>
+                            </div>
 
                               <div class="col col_1_3">
                                   <div class="inner">
@@ -227,21 +243,7 @@
                                   </div>
                               </div>
 
-                              <div class="col col_1_3">
-                                                              <div class="inner">
-                                                              <a href="http://www.microceft.fr/">
-                                                                  <div class="work-item">
-                                                                      <div class="work-img"><img src="images/tuts/microceft.jpg" height="170px"  /></div>
-                                                                      <div class="work-title">
-                                                                          <div class="corner-orange-top"></div>
-                              											<h4 class="text-white text-bold">microceft.fr</h4>
-                              											<p class="text-white">Vente matériaux informatique</p>
-                                        </div>
-                                    </div>
-                                </a>
 
-                                </div>
-                            </div>
 
 
                     </div>
