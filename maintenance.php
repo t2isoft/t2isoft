@@ -5,7 +5,7 @@
             <div class="container">
                  <!--header slider-->
                     <div class="header-slider">
-                        <img src="images/img/slide_img_1.jpg">
+                        <img src="dist/img/img/slide_img_1.jpg">
                     </div>
                     <!--/header slider-->
             </div>
@@ -17,7 +17,7 @@
                     <li>
                         <a href="team.php">
                             <div class="tf-top-menu"></div>
-                            <img src="images/ico_menu/menu1.png" alt="" />
+                            <img src="dist/img/ico_menu/menu1.png" alt="" />
                             <h4 class="text-white ">Agence</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -26,7 +26,7 @@
                     <li>
                         <a href="site-web.php" >
                             <div class="tf-top-menu"></div>
-                            <img src="images/ico_menu/menu2.png" alt="" />
+                            <img src="dist/img/ico_menu/menu2.png" alt="" />
                             <h4 class="text-white">Site web</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -35,7 +35,7 @@
                     <li>
                         <a href="application.php">
                             <div class="tf-top-menu"></div>
-                            <img src="images/ico_menu/menu3.png" alt="" />
+                            <img src="dist/img/ico_menu/menu3.png" alt="" />
                             <h4 class="text-white">Applications</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -44,7 +44,7 @@
                     <li>
                         <a href="graphisme.php">
                             <div class="tf-top-menu"></div>
-                            <img src="images/ico_menu/menu5.png" alt="" />
+                            <img src="dist/img/ico_menu/menu5.png" alt="" />
                             <h4 class="text-white">Graphisme</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -53,7 +53,7 @@
                     <li>
                         <a href="referencement.php">
                             <div class="tf-top-menu"></div>
-                            <img src="images/ico_menu/menu4.png" alt="" />
+                            <img src="dist/img/ico_menu/menu4.png" alt="" />
                             <h4 class="text-white">Référencement</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -62,7 +62,7 @@
                     <li class="active-menu">
                         <a href="maintenance.php">
                             <div class="tf-top-menu"></div>
-                            <img src="images/ico_menu/menu6.png" alt="" />
+                            <img src="dist/img/ico_menu/menu6.png" alt="" />
                             <h4 class="text-white">Maintenance</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -97,7 +97,7 @@
                             </div>
                             <div class="col col_1_3">
                                 <div class="inner">
-                                    <img src="images/tuts/refonte.png" class="graphisme" /><br>
+                                    <img src="dist/img/tuts/refonte.png" class="graphisme" /><br>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@
                             </div>
                             <div class="col col_1_3">
                                 <div class="inner">
-                                    <img src="images/tuts/pourquoi.png" class="etape"  />
+                                    <img src="dist/img/tuts/pourquoi.png" class="etape"  />
                                 </div>
                             </div>
                         </div><br>
@@ -137,10 +137,10 @@
                                     </div>
                                     <p><ul>
 									<li><span id="char">*</span> Intégration de votre site dans un nouveau gestionnaire de contenu moderne (WordPress, Joomla ou Drupal) simple d’utilisation et facile à modifier</li>
-									<li><span id="char">*</span> Nouveau design de votre page d’accueil intégrant une galerie d’images défilantes</li>
+									<li><span id="char">*</span> Nouveau design de votre page d’accueil intégrant une galerie d’img défilantes</li>
 									<li><span id="char">*</span> Intégration de modules de statistiques intelligents </li>
 									<li><span id="char">* </span>Restructuration de la navigation pour la rendre claire, intuitive et simple</li>
-									<li><span id="char">* </span>Mise à jour de l’ensemble du contenu du site Web (images, textes et vidéos)</li>
+									<li><span id="char">* </span>Mise à jour de l’ensemble du contenu du site Web (img, textes et vidéos)</li>
 									<li><span id="char">*</span> Optimisation de la structure d’arrière-plan pour un meilleur classement dans Google</li>
 									</ul>
 									</p>
@@ -148,7 +148,7 @@
                             </div>
                             <div class="col col_1_3">
                                 <div class="inner">
-                                    <img src="images/tuts/solution.png" class="graphisme"  /><br>
+                                    <img src="dist/img/tuts/solution.png" class="graphisme"  /><br>
                                 </div>
                             </div>
                         </div><br>
@@ -174,31 +174,31 @@
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt=""  />
+                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/java.png" alt=""  />
+                                        <img src="dist/img/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/js.png" alt="" />
+                                        <img src="dist/img/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/mysql.png" alt=""  />
+                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt="" />
+                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

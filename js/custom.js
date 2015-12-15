@@ -1,13 +1,13 @@
-jQuery(document).ready(function(){ 
+jQuery(document).ready(function(){
 	tfuse_custom_form();
     tfuse_feedback_form();
 });
 
-function tfuse_custom_form(){ 
+function tfuse_custom_form(){
 	var my_error;
 	var url = jQuery("input[name=temp_url]").attr('value');
 	jQuery("#send").bind("click", function(){
-		
+
 	my_error = false;
 	jQuery(".ajax_form input, .ajax_form textarea, .ajax_form radio, .ajax_form select").each(function(i)
 	{
@@ -187,4 +187,4 @@ function tfuse_feedback_form(){
         });
         return false;
     });
-}
+};

@@ -1,4 +1,4 @@
-﻿<?php include("header.php"); ?>
+<?php include("header.php"); ?>
         <!--/header-->
         
         
@@ -57,7 +57,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big.jpg" alt="" /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">eShop</h4>
@@ -73,7 +73,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_2.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_2.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Business Cards</h4>
@@ -88,7 +88,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_3.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_3.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Letterhead</h4>
@@ -105,7 +105,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_4.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_4.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">iOS App, UI Design</h4>
@@ -120,7 +120,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_5.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_5.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Agency Logo Design</h4>
@@ -135,7 +135,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_6.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_6.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Product Design</h4>
@@ -152,7 +152,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_7.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_7.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Car sticker</h4>
@@ -167,7 +167,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_8.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_8.jpg" alt="" /></div>
                                         <div class="work-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Full Screen</h4>
@@ -182,7 +182,7 @@
                                 <div class="inner">
                                 <a href="work-details.php">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/thumbnail_big_9.jpg" alt="" /></div>
+                                        <div class="work-img"><img src="dist/img/tuts/thumbnail_big_9.jpg" alt="" /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">We Design Love</h4>
@@ -224,31 +224,31 @@
                            <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt=""  />
+                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/java.png" alt=""  />
+                                        <img src="dist/img/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/js.png" alt="" />
+                                        <img src="dist/img/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/mysql.png" alt=""  />
+                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/php.png" alt=""  />
+                                        <img src="dist/img/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="images/tehnologies/jquery.png" alt="" />
+                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="images/tehnologies/html5.png" alt=""  />
+                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>
