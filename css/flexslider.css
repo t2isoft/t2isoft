@@ -137,7 +137,7 @@ html[xmlns] .slides {
   width: 43px;
   height: 40px;
   display: block;
-  background: url(../images/arrow_slide.png) no-repeat 0 0;
+  background: url(../dist/img/arrow_slide.png) no-repeat 0 0;
   position: absolute;
   bottom: 0;
   z-index: 1;
@@ -193,7 +193,7 @@ html[xmlns] .slides {
   height: 24px;
   display: block;
   cursor: pointer;
-  background: transparent url(../images/arrow_bttom_slide.png) no-repeat 0 0;
+  background: transparent url(../dist/img/arrow_bttom_slide.png) no-repeat 0 0;
   position: absolute;
   top: -75px;
   right: 0px;
@@ -253,7 +253,7 @@ html[xmlns] .slides {
   height: 11px;
   display: block;
   cursor: pointer;
-  background: transparent url(../images/arrow_f.png) no-repeat 0 0;
+  background: transparent url(../dist/img/arrow_f.png) no-repeat 0 0;
   position: absolute;
   top: 40%;
   right: 0px;
@@ -301,7 +301,7 @@ html[xmlns] .slides {
   height: 51px;
   display: block;
   cursor: pointer;
-  background: transparent url(../images/slider_arrows.png) no-repeat -20px 1px;
+  background: transparent url(../dist/img/slider_arrows.png) no-repeat -20px 1px;
   position: absolute;
   top: 231px;
   right: 0px;
