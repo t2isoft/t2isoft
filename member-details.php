@@ -20,7 +20,7 @@
             <div class="container">
                  <!--header slider-->
                     <div class="header-slider">
-                        <img src="dist/img/img/slide_img_1.jpg">
+                        <img src="images/img/slide_img_1.jpg">
                     </div>
                     <!--/header slider-->
             </div>
@@ -31,7 +31,7 @@
                     <li class="active-menu">
                         <a href="team.php">
                             <div class="tf-top-menu"></div>
-                            <img src="dist/img/ico_menu/menu1.png" alt="" />
+                            <img src="images/ico_menu/menu1.png" alt="" />
                             <h4 class="text-white ">Agency</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -40,7 +40,7 @@
                     <li>
                         <a href="solutions.php" >
                             <div class="tf-top-menu"></div>
-                            <img src="dist/img/ico_menu/menu2.png" alt="" />
+                            <img src="images/ico_menu/menu2.png" alt="" />
                             <h4 class="text-white">Solutions</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -49,7 +49,7 @@
                     <li>
                         <a href="process.php">
                             <div class="tf-top-menu"></div>
-                            <img src="dist/img/ico_menu/menu3.png" alt="" />
+                            <img src="images/ico_menu/menu3.png" alt="" />
                             <h4 class="text-white">The Process</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -58,7 +58,7 @@
                     <li>
                         <a href="marketing.php">
                             <div class="tf-top-menu"></div>
-                            <img src="dist/img/ico_menu/menu5.png" alt="" />
+                            <img src="images/ico_menu/menu5.png" alt="" />
                             <h4 class="text-white">Marketing</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -67,7 +67,7 @@
                     <li>
                         <a href="career.php">
                             <div class="tf-top-menu"></div>
-                            <img src="dist/img/ico_menu/menu4.png" alt="" />
+                            <img src="images/ico_menu/menu4.png" alt="" />
                             <h4 class="text-white">Career</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -76,7 +76,7 @@
                     <li>
                         <a href="contacts.php">
                             <div class="tf-top-menu"></div>
-                            <img src="dist/img/ico_menu/menu6.png" alt="" />
+                            <img src="images/ico_menu/menu6.png" alt="" />
                             <h4 class="text-white">Get in touch</h4>
                             <div class="tf-bottom-menu"></div>
                         </a>
@@ -99,7 +99,7 @@
                             
                                 <div class="team-box">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="dist/img/team/pers_1.jpg" width="201" height="201" alt=""></div>
+                                        <div class="team-image"><img src="images/team/pers_1.jpg" width="201" height="201" alt=""></div>
                                         <div class="team-text">
                                             <h4>Christian Petersen</h4>
                                             <h5>Agency CEO</h5>
@@ -191,31 +191,31 @@
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/java.png" alt=""  />
+                                        <img src="images/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/js.png" alt="" />
+                                        <img src="images/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
+                                        <img src="images/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

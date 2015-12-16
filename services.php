@@ -42,7 +42,7 @@
                                 <div class="inner">
                                 <a href="site-web.php">
                                     <div class="services-item">
-                                        <div class="services-img"><img src="dist/img/tuts/services_big.jpg" alt="" /></div>
+                                        <div class="services-img"><img src="images/tuts/services_big.jpg" alt="" /></div>
                                         <div class="services-title">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Création site web</h4>
@@ -61,7 +61,7 @@
                                 <div class="inner">
                                 <a href="application.php">
                                     <div class="services-item">
-                                        <div class="services-img"><img src="dist/img/tuts/services_big_9.jpg" alt="" /></div>
+                                        <div class="services-img"><img src="images/tuts/services_big_9.jpg" alt="" /></div>
                                         <div class="services-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Application mobile</h4>
@@ -82,7 +82,7 @@
                                 <div class="inner">
                                 <a href="graphisme.php">
                                     <div class="services-item">
-                                        <div class="services-img"><img src="dist/img/tuts/services_big_2.jpg" alt="" /></div>
+                                        <div class="services-img"><img src="images/tuts/services_big_2.jpg" alt="" /></div>
                                         <div class="services-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Graphisme & Design</h4>
@@ -103,7 +103,7 @@
                                 <div class="inner">
                                 <a href="referencement.php">
                                     <div class="services-item">
-                                        <div class="services-img"><img src="dist/img/tuts/services_big_4.jpg" alt="" /></div>
+                                        <div class="services-img"><img src="images/tuts/services_big_4.jpg" alt="" /></div>
                                         <div class="services-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Référencement & Visibilité </h4>
@@ -122,7 +122,7 @@
                                 <div class="inner">
                                 <a href="maintenance.php">
                                     <div class="services-item">
-                                        <div class="services-img"><img src="dist/img/tuts/services_big_5.jpg" alt="" /></div>
+                                        <div class="services-img"><img src="images/tuts/services_big_5.jpg" alt="" /></div>
                                         <div class="services-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold">Refonte de votre site Internet</h4>
@@ -141,7 +141,7 @@
                                 <div class="inner">
                                 <a href="marketing.php">
                                     <div class="services-item">
-                                        <div class="services-img"><img src="dist/img/tuts/services_big_8.jpg" alt="" /></div>
+                                        <div class="services-img"><img src="images/tuts/services_big_8.jpg" alt="" /></div>
                                         <div class="services-title ">
                                             <div class="corner-orange-top"></div>
 											<h4 class="text-white text-bold"> Marketing de contenu</h4>
@@ -175,31 +175,31 @@
                            <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/java.png" alt=""  />
+                                        <img src="images/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/js.png" alt="" />
+                                        <img src="images/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
+                                        <img src="images/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

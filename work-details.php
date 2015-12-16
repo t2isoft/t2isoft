@@ -41,7 +41,7 @@
                               <ul class="slides">
                                 <li>
                                 
-                                  <img src="dist/img/chine.jpg" alt="" />
+                                  <img src="images/chine.jpg" alt="" />
                                     <div class="post-meta-bot work">
                                         <div class="post-date-corner"></div>
                                       
@@ -54,7 +54,7 @@
                                     
                                 </li>
                                 <li>
-                                  <img src="dist/img/temp/kitchen_adventurer_caramel.jpg" alt=""  />
+                                  <img src="images/temp/kitchen_adventurer_caramel.jpg" alt=""  />
                                     <div class="post-meta-bot work">
                                         <div class="post-date-corner"></div>
                                         
@@ -66,7 +66,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                  <img src="dist/img/temp/kitchen_adventurer_lemon.jpg" alt=""  />
+                                  <img src="images/temp/kitchen_adventurer_lemon.jpg" alt=""  />
                                   <div class="post-meta-bot work">
                                         <div class="post-date-corner"></div>
                                         
@@ -132,7 +132,7 @@
                             <li class="comment">
                                 <div class="comment-body">
                                     <div class="comment-avatar">
-                                        <div class="avatar"><img src="dist/img/user_white.png"></div>
+                                        <div class="avatar"><img src="images/user_white.png"></div>
                                     </div>
                                     <div class="comment-text">
                                         <div class="comment-author">
@@ -152,7 +152,7 @@
                                     <li class="comment">
                                         <div class="comment-body">
                                             <div class="comment-avatar">
-                                                <div class="avatar"><img src="dist/img/user_white.png"></div>
+                                                <div class="avatar"><img src="images/user_white.png"></div>
                                             </div>
                                             <div class="comment-text">
                                                 <div class="comment-author">
@@ -172,7 +172,7 @@
                                             <li class="comment">
                                                 <div class="comment-body">
                                                     <div class="comment-avatar">
-                                                        <div class="avatar"><img src="dist/img/user_white.png"></div>
+                                                        <div class="avatar"><img src="images/user_white.png"></div>
                                                     </div>
                                                     <div class="comment-text">
                                                         <div class="comment-author">
@@ -197,7 +197,7 @@
                              <li class="comment">
                                 <div class="comment-body">
                                     <div class="comment-avatar">
-                                        <div class="avatar"><img src="dist/img/user_white.png"></div>
+                                        <div class="avatar"><img src="images/user_white.png"></div>
                                     </div>
                                     <div class="comment-text">
                                         <div class="comment-author">
@@ -222,16 +222,16 @@
                 <div class="sidebar">
                     <div class="widget-pagination space">
                         <ul>
-                            <li class="border-nav"><img src="dist/img/arrow-nav-left.png"></li>
-                            <li class="border-nav"><img src="dist/img/block.png"></li>
-                            <li ><img src="dist/img/arrow-nav-right.png"></li>
+                            <li class="border-nav"><img src="images/arrow-nav-left.png"></li>
+                            <li class="border-nav"><img src="images/block.png"></li>
+                            <li ><img src="images/arrow-nav-right.png"></li>
                         </ul>
                         <div class="clear"></div>
                     </div>
                     <!--Client-->
                     <div class="widget-container widget_client">
                     <h3 class="widget-title">Client</h3>
-                        <img src="dist/img/logo.png" class="aligncenter space">
+                        <img src="images/logo.png" class="aligncenter space">
                     </div>
                     <!-- widget_text -->
                     <div class="widget-container widget_text">
@@ -251,7 +251,7 @@
                 <!--Share-->
                 <div class="widget-container widget_share">
                 <h3 class="widget-title">Share</h3>
-                    <img src="dist/img/shares.png">
+                    <img src="images/shares.png">
                 </div>
                 <!--Tags-->
                 <div class="widget-content widget_tag_cloud"> 
@@ -283,31 +283,31 @@
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/java.png" alt=""  />
+                                        <img src="images/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/js.png" alt="" />
+                                        <img src="images/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
+                                        <img src="images/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

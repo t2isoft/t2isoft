@@ -29,7 +29,7 @@
                 <div class="flexslider">
                   <ul class="slides">
                     <li>
-                        <a href="#"> <img src="dist/img/img/slide.png" alt="" /></a>
+                        <a href="#"> <img src="images/img/slide.png" alt="" /></a>
                         <div class="details">
                             <div class="text-details">
                                 <h2 class="text-bold text-white">Unique & Creative</h2>
@@ -38,7 +38,7 @@
                     </li>
 
                     <li>
-                        <a href="#"><img src="dist/img/img/slide1.png" alt="" /></a>
+                        <a href="#"><img src="images/img/slide1.png" alt="" /></a>
                         <div class="details">
                             <div class="text-details">
                                 <h2 class="text-bold text-white">Infinité de Possibilité</h2>
@@ -47,7 +47,7 @@
                     </li>
 
                     <li>
-                        <a href="#"><img src="dist/img/img/slide2.png" alt="" /></a>
+                        <a href="#"><img src="images/img/slide2.png" alt="" /></a>
                         <div class="details">
                             <div class="text-details">
                                 <h2 class="text-bold text-white">Responsive Design</h2>
@@ -74,7 +74,7 @@
                         <div class="row">
                             <div class="col col_1_3">
                             <div class="inner">
-                                <img src="dist/img/tuts/ico1.jpg" alt="" />
+                                <img src="images/tuts/ico1.jpg" alt="" />
                                 <h2 class="text-bold text-white">Web Design</h2>
                                 <p>
                                 Notre équipe de designers unifie votre image afin de créer votre identité numérique cohérente.
@@ -85,7 +85,7 @@
 
                                     <div class="col col_1_3">
                                         <div class="inner">
-                                        <img src="dist/img/tuts/ico3.jpg" alt="" />
+                                        <img src="images/tuts/ico3.jpg" alt="" />
                                         <h2 class="text-bold text-white">Création Web</h2>
                                         <p><span class="text-silver">T2Isoft </span>vous accompagne pour la réalisation de votre site web ou application mobile afin de communiquer autour de votre activité  <a href="site-web.php" class="text-silver">More..</a></p>
                                         </div>
@@ -93,7 +93,7 @@
 
                                     <div class="col col_1_3">
                                         <div class="inner">
-                                        <img src="dist/img/tuts/android-icon.png" alt="" />
+                                        <img src="images/tuts/android-icon.png" alt="" />
                                         <h2 class="text-bold text-white">Applications mobiles</h2>
                                         <p><span class="text-silver">T2Isoft</span> peut répondre à tous types de d’applications Web & Mobile <a href="application.php" class="text-silver">More..</a></p>
                                         </div>
@@ -139,7 +139,7 @@
                            <li>
                                         <a href="site-web.php">
                                             <div class="work-item">
-                                            <div class="work-img"><img src="dist/img/tuts/dev.png" alt="" /></div>
+                                            <div class="work-img"><img src="images/tuts/dev.png" alt="" /></div>
                                             <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                             <h4 class="text-white text-bold">Dévelopment</h4>
@@ -154,7 +154,7 @@
 
                                         <a href="referencement.php">
                                             <div class="work-item">
-                                            <div class="work-img"><img src="dist/img/tuts/mise-en-ligne.png" alt="" /></div>
+                                            <div class="work-img"><img src="images/tuts/mise-en-ligne.png" alt="" /></div>
                                             <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                             <h4 class="text-white text-bold">Mise en ligne </h4>
@@ -184,7 +184,7 @@
 
                                         <a href="expertise.php">
                                             <div class="work-item">
-                                            <div class="work-img"><img src="dist/img/tuts/expertise.png"  alt="Conseil & Expertise" /></div>
+                                            <div class="work-img"><img src="images/tuts/expertise.png"  alt="Conseil & Expertise" /></div>
                                             <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                             <h4 class="text-white text-bold">Conseil & Expertise</h4>
@@ -215,7 +215,7 @@
                                         <div class="inner">
                                             <div class="work-item">
                            <a href = "referencement.php">
-											  <div class="work-img"><img src="dist/img/tuts/reference.png" alt="" /></div>
+											  <div class="work-img"><img src="images/tuts/reference.png" alt="" /></div>
                                                 <div class="mini-work-title">
 
                                                     <h4 class="text-black text-bold">Référencement </h4>
@@ -230,7 +230,7 @@
                                         <div class="inner">
                                            <div class="work-item">
 								 <a href = "marketing.php">
-                                                <div class="work-img"><img src="dist/img/tuts/medias.png" alt="" /></div>
+                                                <div class="work-img"><img src="images/tuts/medias.png" alt="" /></div>
                                                 <div class="mini-work-title">
 
                                                     <h4 class="text-black text-bold">Marketing des médias sociaux</h4>
@@ -245,7 +245,7 @@
                                         <div class="inner">
                                             <div class="work-item">
                                     <a href = "site-web.php">
-												<div class="work-img"><img src="dist/img/tuts/design.png" alt="" /></div>
+												<div class="work-img"><img src="images/tuts/design.png" alt="" /></div>
                                                 <div class="mini-work-title">
 
                                                     <h4 class="text-black text-bold">Maintenance et refonte de site web</h4>
@@ -260,7 +260,7 @@
                                         <div class="inner">
                                             <div class="work-item">
                                  <a href = "referencement.php">
-													<div class="work-img"><img src="dist/img/tuts/optimisation.png" alt="" /></div>
+													<div class="work-img"><img src="images/tuts/optimisation.png" alt="" /></div>
                                                 <div class="mini-work-title">
 
                                                     <h4 class="text-black text-bold">Optimisation du taux de conversion</h4>
@@ -283,31 +283,31 @@
                             <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/java.png" alt=""  />
+                                        <img src="images/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/js.png" alt="" />
+                                        <img src="images/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
+                                        <img src="images/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

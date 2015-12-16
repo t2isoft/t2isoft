@@ -54,11 +54,11 @@ module.exports = function(grunt){
 
   replace: {
     dist: {
-      src: ['*.php'],
+      src: ['*.php','*.css','css/*.css','js/**/*.js','js/*.js','bootstrap.js'],
       overwrite: true,                 // overwrite matched source files
       replacements: [{
-        from: "slide_img_5.jpg",
-        to: "img/slide_img_5.jpg"
+        from: "dist/img/",
+        to: "images/"
       }]
     }
   }
@@ -67,5 +67,5 @@ module.exports = function(grunt){
 
 
 
-  grunt.registerTask('default',['concat','uglify','cssmin','imagemin','replace'] );
+  grunt.registerTask('default',['concat','uglify','cssmin','replace'] );
 }

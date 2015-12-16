@@ -52,7 +52,7 @@
                 <div class="f_col f_col_5">
                     <div class="widget-container widget-send-feedback">
                         <h3 class="widget-title">Contactez-nous</h3>
-                        <!--<img src="dist/img/tuts/fb.png" alt="facebook" width ="140" height="60px"/>-->
+                        <!--<img src="images/tuts/fb.png" alt="facebook" width ="140" height="60px"/>-->
                         <table border="0" width ="">
                             <tr><td>Adresse:</td>  <td> &nbsp; &nbsp; Villeneuve</td></tr>
                             <tr><td>Tél :</td>   <td> (+)33659984486</td></tr>

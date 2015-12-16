@@ -37,7 +37,7 @@
                             <div class="price_item">
                                 <div class="price_col_head">
                                     <h4>Services</h4>
-                                    <img src="dist/img/money.png" alt="">
+                                    <img src="images/money.png" alt="">
                                 </div>
                                 <div class="price_col_body">
                                     <ul>
@@ -60,12 +60,12 @@
                                 </div>
                                 <div class="price_col_body">
                                      <ul>
-                                        <li class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;"><img src="dist/img/false.png" alt="Service non inclus"></li>
-                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="dist/img/false.png" alt="Service non inclus"></li>
-                                        <li><img src="dist/img/false.png" alt="Service non inclus"></li>
+                                        <li class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;"><img src="images/false.png" alt="Service non inclus"></li>
+                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="images/false.png" alt="Service non inclus"></li>
+                                        <li><img src="images/false.png" alt="Service non inclus"></li>
                                     </ul>
                                 </div>
                             </div>
@@ -81,12 +81,12 @@
                                 </div>
                                 <div class="price_col_body">
                                     <ul>
-                                        <li class="bg_dark_orange"><img src="dist/img/ok_red.png" alt="Service inclus"></li>
-                                        <li class="bg_light_orange"><img src="dist/img/ok_red.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="bg_dark_orange"><img src="dist/img/ok_red.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="bg_light_orange"><img src="dist/img/ok_red.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="bg_dark_orange"><img src="dist/img/false_red.png" alt="Service non inclus"></li>
-                                        <li class="bg_light_orange"><img src="dist/img/false_red.png" alt="Service non inclus"></li>
+                                        <li class="bg_dark_orange"><img src="images/ok_red.png" alt="Service inclus"></li>
+                                        <li class="bg_light_orange"><img src="images/ok_red.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="bg_dark_orange"><img src="images/ok_red.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="bg_light_orange"><img src="images/ok_red.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="bg_dark_orange"><img src="images/false_red.png" alt="Service non inclus"></li>
+                                        <li class="bg_light_orange"><img src="images/false_red.png" alt="Service non inclus"></li>
                                     </ul>
                                 </div>
                             </div>
@@ -100,12 +100,12 @@
                                 </div>
                                 <div class="price_col_body">
                                      <ul>
-                                        <li class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li><img src="dist/img/false.png" alt="Service non inclus"></li>
+                                        <li class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li><img src="images/false.png" alt="Service non inclus"></li>
                                     </ul>
                                 </div>
                             </div>
@@ -119,12 +119,12 @@
                                 </div>
                                 <div class="price_col_body">
                                      <ul>
-                                        <li class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="dist/img/ok.png" alt="Service inclus"></li>
-                                        <li><img src="dist/img/ok.png" alt="Service inclus"></li>
+                                        <li class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li style="padding: 20px 0px;" class="box_light_gray"><img src="images/ok.png" alt="Service inclus"></li>
+                                        <li><img src="images/ok.png" alt="Service inclus"></li>
                                     </ul>
                                 </div>
                             </div>
@@ -198,31 +198,31 @@
                            <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/java.png" alt=""  />
+                                        <img src="images/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/js.png" alt="" />
+                                        <img src="images/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
+                                        <img src="images/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>

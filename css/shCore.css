@@ -188,7 +188,7 @@
 
 .syntaxhighlighter.collapsed .toolbar .item.expandSource
 {
-	background-image: url(../dist/img/icons/sh_icons.png) !important;
+	background-image: url(../images/icons/sh_icons.png) !important;
 	background-position:0 -48px !important;
 	display: inline !important;
 	text-indent: 0 !important;
@@ -200,25 +200,25 @@
 
 .syntaxhighlighter .toolbar .item.viewSource
 {
-	background-image: url(../dist/img/icons/sh_icons.png) !important;
+	background-image: url(../images/icons/sh_icons.png) !important;
 	background-position:0 0 !important
 }
 
 .syntaxhighlighter .toolbar .item.printSource
 {
-	background-image: url(../dist/img/icons/sh_icons.png) !important;
+	background-image: url(../images/icons/sh_icons.png) !important;
 	background-position:0 -16px !important
 }
 
 .syntaxhighlighter .toolbar .item.copyToClipboard
 {
-	background-image: url(../dist/img/icons/sh_icons.png) !important;
+	background-image: url(../images/icons/sh_icons.png) !important;
 	background-position:0 -64px !important
 }
 
 .syntaxhighlighter .toolbar .item.about
 {
-	background-image: url(../dist/img/icons/sh_icons.png) !important;
+	background-image: url(../images/icons/sh_icons.png) !important;
 	background-position:0 -32px !important;	
 }
 

@@ -52,7 +52,7 @@
                               <div class="inner">
                               <a href="http://www.overpoweredrecords.com/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="dist/img/tuts/overpoweredrecords.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
                                           <h4 class="text-white text-bold">Overpoweredrecords</h4>
@@ -68,7 +68,7 @@
                               <div class="inner">
                               <a href="http://www.mannequine.890m.com/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="dist/img/tuts/mannequine.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/mannequine.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
                                           <h4 class="text-white text-bold">Mannequine</h4>
@@ -84,7 +84,7 @@
                                 <div class="inner">
                                 <a href="http://immobilis.890m.com/" TARGET="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="dist/img/tuts/immobilis.png" height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/immobilis.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
                       											<h4 class="text-white text-bold">Immobilis</h4>
@@ -102,7 +102,7 @@
                                     <div class="inner">
                                     <a href="http://www.jevoyage.ma/" TARGET="_blank">
                                         <div class="work-item">
-                                            <div class="work-img"><img src="dist/img/tuts/voyage.jpg" height="170px" /></div>
+                                            <div class="work-img"><img src="images/tuts/voyage.jpg" height="170px" /></div>
                                             <div class="work-title ">
                                                 <div class="corner-orange-top"></div>
                                                 <h4 class="text-white text-bold">Je Voyage</h4>
@@ -117,7 +117,7 @@
                                 <div class="inner">
                                 <a href="http://karlkelleoglu.com/" TARGET="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="dist/img/tuts/karl.png" height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/karl.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                             <h4 class="text-white text-bold">Karlkelleoglu</h4>
@@ -133,7 +133,7 @@
                                 <div class="inner">
                                 <a href="http://imade.890m.com/" TARGET="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="dist/img/tuts/imade.png" height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/imade.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                             <h4 class="text-white text-bold">Imade</h4>
@@ -150,7 +150,7 @@
                                   <div class="inner">
                                   <a href="http://annonceur.890m.com/" TARGET="_blank">
                                       <div class="work-item">
-                                          <div class="work-img"><img src="dist/img/tuts/annonceur.png" height="170px"  /></div>
+                                          <div class="work-img"><img src="images/tuts/annonceur.png" height="170px"  /></div>
                                           <div class="work-title">
                                               <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">Annonceur</h4>
@@ -167,7 +167,7 @@
                                   <div class="inner">
                                   <a href="http://www.kaymu.ma/" TARGET="_blank">
                                       <div class="work-item">
-                                          <div class="work-img"><img src="dist/img/tuts/shop.jpg" height="170px" /></div>
+                                          <div class="work-img"><img src="images/tuts/shop.jpg" height="170px" /></div>
                                           <div class="work-title ">
                                               <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">Kaymu</h4>
@@ -182,7 +182,7 @@
                                   <div class="inner">
                                   <a href="http://hotel-dans-paris.fr/" target="_blank">
                                       <div class="work-item">
-                                          <div class="work-img"><img src="dist/img/tuts/hotel.png" height="170px"  /></div>
+                                          <div class="work-img"><img src="images/tuts/hotel.png" height="170px"  /></div>
                                           <div class="work-title ">
                                               <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">Hotel dans Paris</h4>
@@ -201,7 +201,7 @@
                           <div class="inner">
                           <a href="http://www.microceft.890m.com/" TARGET="_blank">
                               <div class="work-item">
-                                  <div class="work-img"><img src="dist/img/tuts/microceft.jpg" height="170px"  /></div>
+                                  <div class="work-img"><img src="images/tuts/microceft.jpg" height="170px"  /></div>
                                   <div class="work-title">
                                       <div class="corner-orange-top"></div>
                                         <h4 class="text-white text-bold">Microceft</h4>
@@ -217,7 +217,7 @@
                                   <div class="inner">
                                   <a href="http://cielbleu-bezons.fr/" TARGET="_blank">
                                       <div class="work-item">
-                                          <div class="work-img"><img src="dist/img/tuts/ciel.jpg" height="170px" /></div>
+                                          <div class="work-img"><img src="images/tuts/ciel.jpg" height="170px" /></div>
                                           <div class="work-title ">
                                               <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">Ciel Bleu</h4>
@@ -232,7 +232,7 @@
                                   <div class="inner">
                                   <a href="http://demenagement-transport-93.com/" TARGET="_blank">
                                       <div class="work-item">
-                                          <div class="work-img"><img src="dist/img/tuts/sts.jpg" height="170px" /></div>
+                                          <div class="work-img"><img src="images/tuts/sts.jpg" height="170px" /></div>
                                           <div class="work-title ">
                                               <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">STS Transport</h4>
@@ -266,31 +266,31 @@
                            <div class="tf-footer-carousel carousel" >
                               <ul class="slides">
                                 <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt=""  />
+                                        <img src="images/tehnologies/jquery.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/java.png" alt=""  />
+                                        <img src="images/tehnologies/java.png" alt=""  />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/js.png" alt="" />
+                                        <img src="images/tehnologies/js.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/mysql.png" alt=""  />
+                                        <img src="images/tehnologies/mysql.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/php.png" alt=""  />
+                                        <img src="images/tehnologies/php.png" alt=""  />
                                     </li>
                                     <li >
-                                        <img src="dist/img/tehnologies/jquery.png" alt="" />
+                                        <img src="images/tehnologies/jquery.png" alt="" />
                                     </li>
                                     <li>
-                                        <img src="dist/img/tehnologies/html5.png" alt=""  />
+                                        <img src="images/tehnologies/html5.png" alt=""  />
                                     </li>
                                 <!-- items mirrored twice, total of 12 -->
                               </ul>
