@@ -21,16 +21,16 @@
 
                 </div>
 
-                <div class="f_col f_col_2">
+                <div class="f_col f_col_2" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
                     <div class="widget-container widget_categories">
                         <h3 class="widget-title">Plan de site</h3>
                         <ul>
-                            <li><a href="team.php"> Agence</a></li>
-                            <li><a href="services.php"> Services</a></li>
-                            <li><a href="realisation.php"> Réalisations</a></li>
-                            <li><a href="expertise.php"> Solutions</a></li>
-                            <li><a href="devis.php"> Tarifs</a></li>
-                            <li><a href="contacts.php"> Contactez-nous</a></li>
+                            <li itemprop="name"><a itemprop="url" href="team.php"> Agence</a></li>
+                            <li itemprop="name"><a itemprop="url" href="services.php"> Services</a></li>
+                            <li itemprop="name"><a itemprop="url" href="realisation.php"> Réalisations</a></li>
+                            <li itemprop="name"><a itemprop="url" href="expertise.php"> Solutions</a></li>
+                            <li itemprop="name"><a itemprop="url" href="devis.php"> Tarifs</a></li>
+                            <li itemprop="name"><a itemprop="url" href="contacts.php"> Contactez-nous</a></li>
 
                         </ul>
                     </div>
