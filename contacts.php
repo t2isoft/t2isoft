@@ -126,7 +126,7 @@
                                 </div>
 
                                 <div class="row field_text  omega infieldlabel">
-                                    <input type="text" name="phone" id="phone" value="Téléphone" class="inputtext input_middle required" onblur="if (this.value == '') {this.value = 'Phone number';}" onfocus="if (this.value == 'Numéro de téléphone') {this.value = '';}" >
+                                    <input type="text" name="phone" id="phone" value="Téléphone" class="inputtext input_middle required" onblur="if (this.value == '') {this.value = 'Téléphone';}" onfocus="if (this.value == 'Téléphone') {this.value = '';}" >
                                 </div>
                                 </div>
                                 </div>
