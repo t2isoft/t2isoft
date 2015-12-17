@@ -1,4 +1,4 @@
-<!DOCTYPE html>    <!----------test  local----->
+<!DOCTYPE html>
 <!--[if lt IE 7 ]><html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]><html lang="en" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]><html lang="en" class="no-js ie8"> <![endif]-->
@@ -8,7 +8,22 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<META NAME="Author" CONTENT="karl kelleoglu, T2isoft">
+<META NAME="Category" CONTENT="Création de site internet, création d'application mobile">
+<META NAME="Copyright" CONTENT="T2isoft inc.">
+<META NAME="Language" CONTENT="fr">
+<META NAME="Distribution" CONTENT="global">
+<META NAME="Identifier-URL" CONTENT="www.t2isoft.com">
+<META NAME="Keywords" CONTENT="t2isoft, t2isoft.com, agence web paris, agence digital paris, Création de site internet, création d'application mobile, Création de site web, Référencement">
+<META NAME="Publisher" CONTENT="T2isoft">
+<META NAME="Robots" CONTENT="all">
+<META NAME="GOOGLEBOT" CONTENT="NOARCHIVE">
+<META http-equiv="Content-Language" content="fr">
+<META http-equiv="Refresh"	content="10; URL=http://www.t2isoft.com">
+<META http-equiv="Pragma" CONTENT="no-cache">
+<meta name="description" content="T2isoft est une agence web base a paris, nous pouvons créé des sites web , site internet et application mobile">
 
 <meta name="author" content="T2ISOFT">
 <meta name="keywords" content="">
