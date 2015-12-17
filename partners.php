@@ -102,8 +102,8 @@
                             <div class="col col_1_4 ">
                             <div class="inner">
 
-                            <a href="http://dream-it.ma/" target="_blank">   
-                                        <div><img src="http://dream-it.ma/images/logo.png"  alt=""></div>
+                            <a href="http://dream-it.ma/" target="_blank">
+                                        <div><img src="http://dream-it.ma/img/logo.png"  alt=""></div>
                             </a>
 
                             </div>
@@ -229,7 +229,7 @@
                         <!----------------------FIN EQUIP-------------------------------->
                         <div class="divider"></div>
 
-                        
+
                        <!-- <div class="clear"></div>
                         <div class="space"></div>
                         <div class="divider"></div>
