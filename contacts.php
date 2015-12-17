@@ -126,7 +126,7 @@
                                 </div>
 
                                 <div class="row field_text  omega infieldlabel">
-                                    <input type="text" name="phone" id="phone" value="Téléphone" class="inputtext input_middle required" onblur="if (this.value == '') {this.value = 'Phone number';}" onfocus="if (this.value == 'Phone number') {this.value = '';}" >
+                                    <input type="text" name="phone" id="phone" value="Téléphone" class="inputtext input_middle required" onblur="if (this.value == '') {this.value = 'Phone number';}" onfocus="if (this.value == 'Numéro de téléphone') {this.value = '';}" >
                                 </div>
                                 </div>
                                 </div>
@@ -134,7 +134,7 @@
                                 <div class="col col_1_2">
                                 <div class="inner">
                                 <div class="row field_textarea infieldlabel">
-                                    <textarea  cols="30" rows="10" id="message" value="Votre message" name="message" class="textarea textarea_middle required"></textarea>
+                                    <textarea  cols="30" rows="10" id="message" value="Votre message" name="message" class="textarea textarea_middle required" onblur="if (this.value == '') {this.value = 'Votre message';}" onfocus="if (this.value == 'Votre message') {this.value = '';}">Votre message</textarea>
                                 </div>
 
                                 <div class="row rowSubmit">
