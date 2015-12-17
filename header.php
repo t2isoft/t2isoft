@@ -94,6 +94,23 @@
         });
       });
   </script>
+  <script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "legalName" : "T2isoft",
+  "url" : "http://t2isoft.com/",
+  "contactPoint" : [{
+    "@type" : "ContactPoint",
+    "telephone" : "06-59-98-44-86",
+    "contactType" : "customer service"
+  }]
+  "logo" : "http://t2isoft.com/images/logo.png",
+  "sameAs" : [ "https://www.facebook.com/t2isoft",
+    "https://twitter.com/t2isoft",
+    "https://www.linkedin.com/company/t2isoft",
+    "https://www.codeur.com/-t2isoft"]
+}
+</script>
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
