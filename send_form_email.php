@@ -1,8 +1,8 @@
 <?php
- 
+
 if(isset($_POST) && isset($_POST['nom']) && isset($_POST['email']) && isset($_POST['message']) && isset($_POST['phone'])){
   if(!empty($_POST['nom']) && !empty($_POST['email']) && !empty($_POST['message']) && !empty($_POST['phone'])){
-    $destinataire = "karl.kelleoglu@gmail.com";
+    $destinataire = "contact@t2isoft.com";
     $sujet = "Demande de client T2isoft.com";
     $message = "Nom : ".$_POST['nom']."\n";
     $message .= "Adresse email : ".$_POST['email']."\n";
