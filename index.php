@@ -95,7 +95,7 @@
                                         <div class="inner">
                                         <img src="images/tuts/android-icon.png" alt="" />
                                         <h2 class="text-bold text-white">Applications mobiles</h2>
-                                        <p><span class="text-silver">T2Isoft</span> peut répondre à tous types de d’applications Web & Mobile <a href="application.php" class="text-silver">More..</a></p>
+                                        <p><span class="text-silver">T2Isoft</span> peut répondre à tous types d’applications Web & Mobile <a href="application.php" class="text-silver">More..</a></p>
                                         </div>
                                     </div>
                                 </div>
