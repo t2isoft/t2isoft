@@ -74,3 +74,11 @@ deny from all
 
 # protection de la lecture des répertoires
 Options -Indexes
+
+# Pages d'erreur
+ErrorDocument 401 /errors/401.html
+ErrorDocument 402 /errors/402.html
+ErrorDocument 403 /errors/403.html
+ErrorDocument 404 /errors/404.html
+ErrorDocument 500 /errors/500.html
+ErrorDocument 404 /errors/404.php
