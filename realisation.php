@@ -68,7 +68,7 @@
                               <div class="inner">
                               <a href="http://www.adrenovation.fr/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/mannequine.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/adrenov.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
                                           <h4 class="text-white text-bold">A.D.Renovation</h4>
@@ -84,7 +84,7 @@
                                 <div class="inner">
                                 <a href="http://mon-coach-et-moi.fr/" TARGET="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/immobilis.png" height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/coach.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
                       											<h4 class="text-white text-bold">Mon coach et moi</h4>
@@ -117,12 +117,12 @@
 
                           <div class="col col_1_3">
                               <div class="inner">
-                              <a href="http://annonceur.890m.com/" TARGET="_blank">
+                              <a href="http://dc-architecture.fr/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/annonceur.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/dc-architecture.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Excel Construction</h4>
+                                          <h4 class="text-white text-bold">DC Architecture</h4>
                                           <p class="text-white">Société immobilière </p>
                                       </div>
                                   </div>
@@ -157,7 +157,7 @@
                                 <div class="inner">
                                 <a href="http://www.microceft.890m.com/" TARGET="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/microceft.jpg" height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/microceft.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
                                               <h4 class="text-white text-bold">Microceft</h4>
