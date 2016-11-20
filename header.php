@@ -21,7 +21,6 @@
 <META NAME="Robots" CONTENT="all">
 <META NAME="GOOGLEBOT" CONTENT="NOARCHIVE">
 <META http-equiv="Content-Language" content="fr">
-<META http-equiv="Refresh"	content="300; URL=http://www.t2isoft.com">
 <META http-equiv="Pragma" CONTENT="no-cache">
 <meta name="description" content="T2isoft est une agence web base a paris, nous pouvons créé des sites web , site internet et application mobile">
 

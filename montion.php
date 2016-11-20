@@ -114,10 +114,9 @@
                                     <div class="title">
                                         <h1>SIÈGE SOCIAL</h1>
                                     </div>
-                                    <p>2 rue Kellermann</br>
-                                      59100 Roubaix</br>
-                                      Tel : 08 203 203 63</br>
-                                      SIRET : 424 761 419 00045</p>
+                                    <p>8 rue Gaston appert</br>
+                                      92390 Villeneuve la garenne</br>
+                                      SIRET : 801 430 372 00012</p>
                                 </div>
                             </div>
 

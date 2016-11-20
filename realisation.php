@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
         <!--/header-->
-        
+
 
         <div class="black-background">
             <div class="container">
@@ -47,16 +47,17 @@
 
                         <div class="clear"></div>
                         <hr><br>
+
                         <div class="row">
                           <div class="col col_1_3">
                               <div class="inner">
-                              <a href="http://www.ovprecords.com/" TARGET="_blank">
+                              <a href="http://excel-construction.fr/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/excel.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Ovprecords</h4>
-                                          <p class="text-white">Blog sur la musique</p>
+                                          <h4 class="text-white text-bold">Excel Construction</h4>
+                                          <p class="text-white">Société immobilière </p>
                                       </div>
                                   </div>
                               </a>
@@ -64,11 +65,12 @@
                               </div>
                           </div>
 
+
                           <div class="col col_1_3">
                               <div class="inner">
                               <a href="http://www.adrenovation.fr/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/mannequine.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/adrenov.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
                                           <h4 class="text-white text-bold">A.D.Renovation</h4>
@@ -84,7 +86,7 @@
                                 <div class="inner">
                                 <a href="http://mon-coach-et-moi.fr/" TARGET="_blank">
                                     <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/immobilis.png" height="170px"  /></div>
+                                        <div class="work-img"><img src="images/tuts/coach.png" height="170px"  /></div>
                                         <div class="work-title">
                                             <div class="corner-orange-top"></div>
                       											<h4 class="text-white text-bold">Mon coach et moi</h4>
@@ -117,13 +119,13 @@
 
                           <div class="col col_1_3">
                               <div class="inner">
-                              <a href="http://annonceur.890m.com/" TARGET="_blank">
+                              <a href="http://www.ovprecords.com/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/annonceur.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Excel Construction</h4>
-                                          <p class="text-white">Société immobilière </p>
+                                          <h4 class="text-white text-bold">Ovprecords</h4>
+                                          <p class="text-white">Blog sur la musique</p>
                                       </div>
                                   </div>
                               </a>
@@ -150,113 +152,6 @@
 
 
 
-                              <div class="row">
-
-
-                              <div class="col col_1_3">
-                                <div class="inner">
-                                <a href="http://www.microceft.890m.com/" TARGET="_blank">
-                                    <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/microceft.jpg" height="170px"  /></div>
-                                        <div class="work-title">
-                                            <div class="corner-orange-top"></div>
-                                              <h4 class="text-white text-bold">Microceft</h4>
-                                              <p class="text-white">Vente matériaux informatique</p>
-                                            </div>
-                                          </div>
-                                      </a>
-
-                                      </div>
-                                  </div>
-
-                                  <div class="col col_1_3">
-                                      <div class="inner">
-                                      <a href="http://imade.890m.com/" TARGET="_blank">
-                                          <div class="work-item">
-                                              <div class="work-img"><img src="images/tuts/imade.png" height="170px"  /></div>
-                                              <div class="work-title">
-                                                  <div class="corner-orange-top"></div>
-                                                  <h4 class="text-white text-bold">Imade</h4>
-                                                  <p class="text-white">Garage automobile à Bezons</p>
-                                              </div>
-                                          </div>
-                                      </a>
-                                      </div>
-                                      </div>
-
-
-
-                                  <div class="col col_1_3">
-                                      <div class="inner">
-                                      <a href="http://www.mannequine.890m.com/" TARGET="_blank">
-                                          <div class="work-item">
-                                              <div class="work-img"><img src="images/tuts/mannequine.png" height="170px"  /></div>
-                                              <div class="work-title">
-                                                  <div class="corner-orange-top"></div>
-                                                  <h4 class="text-white text-bold">Mannequine</h4>
-                                                  <p class="text-white">Book d'une mannequine</p>
-                                              </div>
-                                          </div>
-                                      </a>
-
-                                      </div>
-                                  </div>
-                                  </div>
-
-
-
-
-                        <div class="row">
-
-                          <div class="col col_1_3">
-                              <div class="inner">
-                              <a href="http://hotel-dans-paris.fr/" target="_blank">
-                                  <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/hotel.png" height="170px"  /></div>
-                                      <div class="work-title ">
-                                          <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Hotel dans Paris</h4>
-                                          <p class="text-white">Réservation de chambre d'hotel en ligne</p>
-                                      </div>
-                                  </div>
-                              </a>
-                              </div>
-                          </div>
-
-                          <div class="col col_1_3">
-                              <div class="inner">
-                              <a href="http://immobilis.890m.com/" TARGET="_blank">
-                                  <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/immobilis.png" height="170px"  /></div>
-                                      <div class="work-title">
-                                          <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Immobilis</h4>
-                                          <p class="text-white">Site d'annonces immobiliere</p>
-                                      </div>
-                                  </div>
-                              </a>
-
-                              </div>
-                          </div>
-
-
-
-                              <div class="col col_1_3">
-                                  <div class="inner">
-                                  <a href="http://annonceur.890m.com/" TARGET="_blank">
-                                      <div class="work-item">
-                                          <div class="work-img"><img src="images/tuts/annonceur.png" height="170px"  /></div>
-                                          <div class="work-title">
-                                              <div class="corner-orange-top"></div>
-                                              <h4 class="text-white text-bold">Annonceur</h4>
-                                              <p class="text-white">Site de petites annonces </p>
-                                          </div>
-                                      </div>
-                                  </a>
-
-                                  </div>
-                              </div>
-                              </div>
 
 
 

@@ -56,7 +56,7 @@
                             <div class="price_item">
                                 <div class="price_col_head">
                                     <h3 class="text-bold">Simple</h3>
-                                    <h2>300€ TTC</h2>
+                                    <h2>1 200 € TTC</h2>
                                 </div>
                                 <div class="price_col_body">
                                      <ul>
@@ -76,7 +76,7 @@
                                 <div class="price_col_head">
                                      <div class="price_col_head">
                                     <h3 class="text-bold">Clé en main</h3>
-                                    <h2>399€ TTC</span></h2>
+                                    <h2>1 500 € TTC</span></h2>
                                 </div>
                                 </div>
                                 <div class="price_col_body">
@@ -96,7 +96,7 @@
                            <div class="price_item">
                                 <div class="price_col_head">
                                     <h3 class="text-bold">Référencement</h3>
-                                    <h2>599€ TTC</span></h2>
+                                    <h2>1 800 € TTC</span></h2>
                                 </div>
                                 <div class="price_col_body">
                                      <ul>
@@ -115,7 +115,7 @@
                             <div class="price_item">
                                 <div class="price_col_head">
                                     <h3 class="text-bold">E-commerce</h3>
-                                    <h2>750€ TTC</h2>
+                                    <h2>2 000 € TTC</h2>
                                 </div>
                                 <div class="price_col_body">
                                      <ul>
