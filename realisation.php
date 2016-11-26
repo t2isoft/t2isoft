@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
         <!--/header-->
-
+        
 
         <div class="black-background">
             <div class="container">
@@ -47,24 +47,22 @@
 
                         <div class="clear"></div>
                         <hr><br>
-
                         <div class="row">
                           <div class="col col_1_3">
                               <div class="inner">
-                              <a href="http://excel-construction.fr/" TARGET="_blank">
+                              <a href="http://www.ovprecords.com/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/excel.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Excel Construction</h4>
-                                          <p class="text-white">Société immobilière </p>
+                                          <h4 class="text-white text-bold">Ovprecords</h4>
+                                          <p class="text-white">Blog sur la musique</p>
                                       </div>
                                   </div>
                               </a>
 
                               </div>
                           </div>
-
 
                           <div class="col col_1_3">
                               <div class="inner">
@@ -119,15 +117,6 @@
 
                           <div class="col col_1_3">
                               <div class="inner">
-
-                              <a href="http://www.ovprecords.com/" TARGET="_blank">
-                                  <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
-                                      <div class="work-title">
-                                          <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Ovprecords</h4>
-                                          <p class="text-white">Blog sur la musique</p>
-
                               <a href="http://dc-architecture.fr/" TARGET="_blank">
                                   <div class="work-item">
                                       <div class="work-img"><img src="images/tuts/dc-architecture.png" height="170px"  /></div>
@@ -135,7 +124,6 @@
                                           <div class="corner-orange-top"></div>
                                           <h4 class="text-white text-bold">DC Architecture</h4>
                                           <p class="text-white">Société immobilière </p>
-
                                       </div>
                                   </div>
                               </a>
@@ -159,7 +147,6 @@
                               </div>
                               </div>
                             </div>
-
 
 
 
