@@ -50,13 +50,13 @@
                         <div class="row">
                           <div class="col col_1_3">
                               <div class="inner">
-                              <a href="http://www.ovprecords.com/" TARGET="_blank">
+                              <a href="http://letusprivateoffice.com/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/letus.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Ovprecords</h4>
-                                          <p class="text-white">Blog sur la musique</p>
+                                          <h4 class="text-white text-bold">Letusprivateoffice</h4>
+                                          <p class="text-white">Le Family Office des Entrepreneurs</p>
                                       </div>
                                   </div>
                               </a>
@@ -117,13 +117,13 @@
 
                           <div class="col col_1_3">
                               <div class="inner">
-                              <a href="http://dc-architecture.fr/" TARGET="_blank">
+                              <a href="http://www.ovprecords.com/" TARGET="_blank">
                                   <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/dc-architecture.png" height="170px"  /></div>
+                                      <div class="work-img"><img src="images/tuts/overpoweredrecords.png" height="170px"  /></div>
                                       <div class="work-title">
                                           <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">DC Architecture</h4>
-                                          <p class="text-white">Société immobilière </p>
+                                          <h4 class="text-white text-bold">Ovprecords</h4>
+                                          <p class="text-white">Blog sur la musique</p>
                                       </div>
                                   </div>
                               </a>
@@ -147,123 +147,6 @@
                               </div>
                               </div>
                             </div>
-
-
-
-                              <div class="row">
-
-
-                              <div class="col col_1_3">
-                                <div class="inner">
-                                <a href="http://www.microceft.890m.com/" TARGET="_blank">
-                                    <div class="work-item">
-                                        <div class="work-img"><img src="images/tuts/microceft.png" height="170px"  /></div>
-                                        <div class="work-title">
-                                            <div class="corner-orange-top"></div>
-                                              <h4 class="text-white text-bold">Microceft</h4>
-                                              <p class="text-white">Vente matériaux informatique</p>
-                                            </div>
-                                          </div>
-                                      </a>
-
-                                      </div>
-                                  </div>
-
-                                  <div class="col col_1_3">
-                                      <div class="inner">
-                                      <a href="http://imade.890m.com/" TARGET="_blank">
-                                          <div class="work-item">
-                                              <div class="work-img"><img src="images/tuts/imade.png" height="170px"  /></div>
-                                              <div class="work-title">
-                                                  <div class="corner-orange-top"></div>
-                                                  <h4 class="text-white text-bold">Imade</h4>
-                                                  <p class="text-white">Garage automobile à Bezons</p>
-                                              </div>
-                                          </div>
-                                      </a>
-                                      </div>
-                                      </div>
-
-
-
-                                  <div class="col col_1_3">
-                                      <div class="inner">
-                                      <a href="http://www.mannequine.890m.com/" TARGET="_blank">
-                                          <div class="work-item">
-                                              <div class="work-img"><img src="images/tuts/mannequine.png" height="170px"  /></div>
-                                              <div class="work-title">
-                                                  <div class="corner-orange-top"></div>
-                                                  <h4 class="text-white text-bold">Mannequine</h4>
-                                                  <p class="text-white">Book d'une mannequine</p>
-                                              </div>
-                                          </div>
-                                      </a>
-
-                                      </div>
-                                  </div>
-                                  </div>
-
-
-
-
-                        <div class="row">
-
-                          <div class="col col_1_3">
-                              <div class="inner">
-                              <a href="http://hotel-dans-paris.fr/" target="_blank">
-                                  <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/hotel.png" height="170px"  /></div>
-                                      <div class="work-title ">
-                                          <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Hotel dans Paris</h4>
-                                          <p class="text-white">Réservation de chambre d'hotel en ligne</p>
-                                      </div>
-                                  </div>
-                              </a>
-                              </div>
-                          </div>
-
-                          <div class="col col_1_3">
-                              <div class="inner">
-                              <a href="http://immobilis.890m.com/" TARGET="_blank">
-                                  <div class="work-item">
-                                      <div class="work-img"><img src="images/tuts/immobilis.png" height="170px"  /></div>
-                                      <div class="work-title">
-                                          <div class="corner-orange-top"></div>
-                                          <h4 class="text-white text-bold">Immobilis</h4>
-                                          <p class="text-white">Site d'annonces immobiliere</p>
-                                      </div>
-                                  </div>
-                              </a>
-
-                              </div>
-                          </div>
-
-
-
-                              <div class="col col_1_3">
-                                  <div class="inner">
-                                  <a href="http://annonceur.890m.com/" TARGET="_blank">
-                                      <div class="work-item">
-                                          <div class="work-img"><img src="images/tuts/annonceur.png" height="170px"  /></div>
-                                          <div class="work-title">
-                                              <div class="corner-orange-top"></div>
-                                              <h4 class="text-white text-bold">Annonceur</h4>
-                                              <p class="text-white">Site de petites annonces </p>
-                                          </div>
-                                      </div>
-                                  </a>
-
-                                  </div>
-                              </div>
-                              </div>
-
-
-
-
-
-
-
                     </div>
                 </article>
             </div>
