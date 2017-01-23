@@ -91,8 +91,7 @@
                                       Rue gaston appert</br>
                                       92390 Villeneuve la garenne</br></br>
 
-                                      Tel : +33 6 59 98 44 86</br>
-                                      Mail : t2isoft.dev@gmail.com</br></br></p>
+                                      Mail : contact@t2isoft.com</br></br></p>
                                 </div>
                             </div>
                         </div>

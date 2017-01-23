@@ -55,7 +55,6 @@
                         <!--<img src="images/tuts/fb.png" alt="facebook" width ="140" height="60px"/>-->
                         <table border="0" width ="">
                             <tr><td>Adresse:</td>  <td> &nbsp; &nbsp; Villeneuve</td></tr>
-                            <tr><td>Tél :</td>   <td> (+)33659984486</td></tr>
                             <tr><td>E-mail : </td>  <td> contact@t2isoft.com</td></tr>
                         </table>
                     </div>

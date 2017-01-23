@@ -22,11 +22,7 @@
 					<!-- content -->
 					<div class="content" role="main">
 
-						<div class="title">
-							<h1 class="alignleft">Contactez-nous pour un devis sur mesure </h1>
-							<span class="btn button_link_medium btn_gray alignright">06 59 98 44 86</span>
-							<div class="clear"></div>
-						</div>
+						
 
         <article class="post-detail">
             <div class="entry container">
