@@ -125,13 +125,13 @@
 
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="https://www.linkedin.com/in/imade-touil-b83157b0" target="_blank">
+                            <a href="https://fr.linkedin.com/in/dimitri-marie-rose-05317a98" target="_blank">
                             <div class="team-box-hover">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/0ab/3e8/020c847.jpg" alt=""></div>
+                                        <div class="team-image"><img src="images\team\dimitri.jpg" alt=""></div>
                                        <div class="team-text">
-                                            <h4>Imade touil</h4>
-                                            <h5>Développeur web</h5>
+                                            <h4>DIMITRI MARIE-ROSE</h4>
+                                            <h5>RÉFÉRENT TECHNIQUE</h5>
                                             <p>Vous ne voyez que très rarement son travail et pourtant sans lui votre projet ne pourrait tout simplement pas voir le jour.</p>
                                             <div class="team-contact">@imadetouil</div>
                                         </div>
@@ -142,15 +142,15 @@
                             </div>
                             </div>
 
-                            <!--<div class="col col_1_4 ">
+                            <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.php">
+                            <a href="https://fr.linkedin.com/in/geoffrey-cariou-aa9515a0" target="_blank">
                             <div class="team-box-hover">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="images/team/pers_3.jpg"alt=""></div>
+                                        <div class="team-image"><img src="images\team\geoffrey.jpg" alt=""></div>
                                        <div class="team-text">
-                                            <h4>Christian Petersen</h4>
-                                            <h5>Agency CEO</h5>
+                                            <h4>GEOFFREY CARIOU</h4>
+                                            <h5>DÉVELOPPEUR WEB</h5>
                                             <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
                                             <div class="team-contact">@christianpetersen</div>
                                         </div>
@@ -163,13 +163,13 @@
 
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.php">
+                            <a href="https://fr.linkedin.com/in/kevin-kriegel-323a0abb" target="_blank">
                             <div class="team-box-hover">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="images/team/pers_4.jpg" alt=""></div>
+                                        <div class="team-image"><img src="images\team\kevin.jpg" alt=""></div>
                                        <div class="team-text">
-                                            <h4>Christian Petersen</h4>
-                                            <h5>Agency CEO</h5>
+                                            <h4>KEVIN KRIEGEL</h4>
+                                            <h5>DESIGNER</h5>
                                             <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
                                             <div class="team-contact">@christianpetersen</div>
                                         </div>
@@ -184,13 +184,13 @@
                         <div class="row">
                             <div class="col col_1_4 ">
                             <div class="inner">
-                            <a href="member-details.php">
+                            <a href="https://fr.linkedin.com/in/thanh-lam-tang-988383b9" target="_blank">
                             <div class="team-box-hover">
                                     <div class="team-description">
-                                        <div class="team-image"><img src="images/team/pers_5.jpg"  alt=""></div>
+                                        <div class="team-image"><img src="images\team\lam.jpg" alt=""></div>
                                        <div class="team-text">
-                                            <h4>Christian Petersen</h4>
-                                            <h5>Agency CEO</h5>
+                                            <h4>LAM TANG</h4>
+                                            <h5>DÉVELOPPEUR</h5>
                                             <p>Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, </p>
                                             <div class="team-contact">@christianpetersen</div>
                                         </div>
@@ -201,7 +201,7 @@
                             </div>
                             </div>
 
-                            <div class="col col_1_4 ">
+                            <!--<div class="col col_1_4 ">
                             <div class="inner">
                             <a href="member-details.php">
                             <div class="team-box-hover">
